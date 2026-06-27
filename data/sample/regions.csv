@@ -1,0 +1,36 @@
+region_id,region_name,state,remoteness,population
+R001,Sydney Inner City,NSW,Major City,254110
+R002,Western Sydney,NSW,Major City,390734
+R003,Northern Sydney,NSW,Major City,626074
+R004,Hunter & Newcastle,NSW,Major City,273357
+R005,Illawarra Shoalhaven,NSW,Regional,129735
+R006,Mid North Coast,NSW,Regional,156698
+R007,Murrumbidgee & Far West,NSW,Remote,43462
+R008,Melbourne Inner,VIC,Major City,370125
+R009,Melbourne North & West,VIC,Major City,198433
+R010,Melbourne South East,VIC,Major City,871004
+R011,Barwon (Geelong),VIC,Regional,138089
+R012,Hume & Goulburn,VIC,Regional,239287
+R013,Gippsland,VIC,Regional,237005
+R014,Brisbane North,QLD,Major City,586616
+R015,Brisbane South,QLD,Major City,539586
+R016,Gold Coast,QLD,Major City,363945
+R017,Sunshine Coast,QLD,Regional,60883
+R018,Townsville & North QLD,QLD,Regional,67127
+R019,Central Queensland,QLD,Regional,193498
+R020,Perth Metro North,WA,Major City,643485
+R021,Perth Metro South,WA,Major City,558764
+R022,Peel & South West,WA,Regional,232689
+R023,Goldfields & Wheatbelt,WA,Remote,54106
+R024,Kimberley & Pilbara,WA,Remote,57487
+R025,Adelaide Metro,SA,Major City,693736
+R026,Adelaide Hills & Barossa,SA,Major City,639154
+R027,Eyre & Far North,SA,Remote,26437
+R028,Limestone Coast,SA,Regional,178693
+R029,Hobart & South,TAS,Major City,515202
+R030,Launceston & North,TAS,Regional,257703
+R031,North West Coast,TAS,Regional,227333
+R032,Canberra Central,ACT,Major City,469687
+R033,Canberra Outer,ACT,Major City,873393
+R034,Darwin & Top End,NT,Remote,58504
+R035,Central Australia (Alice Springs),NT,Remote,46713
