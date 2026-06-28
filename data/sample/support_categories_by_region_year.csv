@@ -1,0 +1,1751 @@
+region_id,year,support_category,budget_group,committed_supports,payments
+R001,2020,Assistance with Daily Life,Core,37683100.63,34741293.06
+R001,2020,Social & Community Participation,Core,45261504.79,40754209.46
+R001,2020,Consumables,Core,10938939.1,10621485.03
+R001,2020,Transport,Core,39040051.38,35090388.62
+R001,2020,Support Coordination,Capacity Building,38614044.45,32476704.29
+R001,2020,Improved Daily Living,Capacity Building,36208388.34,32488458.62
+R001,2020,Finding & Keeping a Job,Capacity Building,59633357.45,49501466.69
+R001,2020,Improved Health & Wellbeing,Capacity Building,79027853.43,76905856.65
+R001,2020,Assistive Technology,Capital,35514907.93,30229004.91
+R001,2020,Home Modifications,Capital,8070102.29,6121442.9
+R001,2021,Assistance with Daily Life,Core,57109108.82,52244955.16
+R001,2021,Social & Community Participation,Core,53367931.52,50971650.88
+R001,2021,Consumables,Core,11128300.58,10201776.01
+R001,2021,Transport,Core,43241470.12,39005231.94
+R001,2021,Support Coordination,Capacity Building,46089810.13,40220291.09
+R001,2021,Improved Daily Living,Capacity Building,30423135.49,28616725.61
+R001,2021,Finding & Keeping a Job,Capacity Building,57954417.7,45890237.0
+R001,2021,Improved Health & Wellbeing,Capacity Building,73774700.39,67577605.85
+R001,2021,Assistive Technology,Capital,38916539.98,33231668.94
+R001,2021,Home Modifications,Capital,6601613.98,4961820.32
+R001,2022,Assistance with Daily Life,Core,72673232.55,68036321.54
+R001,2022,Social & Community Participation,Core,54046872.13,51864817.05
+R001,2022,Consumables,Core,12553159.31,11841693.47
+R001,2022,Transport,Core,48695203.53,44715008.27
+R001,2022,Support Coordination,Capacity Building,69129005.65,58936727.72
+R001,2022,Improved Daily Living,Capacity Building,34307613.34,33599856.79
+R001,2022,Finding & Keeping a Job,Capacity Building,57305070.98,45211582.09
+R001,2022,Improved Health & Wellbeing,Capacity Building,84325187.86,80564440.82
+R001,2022,Assistive Technology,Capital,49259979.22,38868314.3
+R001,2022,Home Modifications,Capital,10317557.41,7718016.21
+R001,2023,Assistance with Daily Life,Core,73124968.71,71346548.91
+R001,2023,Social & Community Participation,Core,57605761.39,56453646.16
+R001,2023,Consumables,Core,12670274.15,11622498.13
+R001,2023,Transport,Core,51108878.06,49028722.84
+R001,2023,Support Coordination,Capacity Building,54056441.71,46966022.16
+R001,2023,Improved Daily Living,Capacity Building,51089165.33,50067382.03
+R001,2023,Finding & Keeping a Job,Capacity Building,80937254.91,66451149.83
+R001,2023,Improved Health & Wellbeing,Capacity Building,125224299.29,120926406.58
+R001,2023,Assistive Technology,Capital,38704013.93,33140715.73
+R001,2023,Home Modifications,Capital,9841004.97,7526824.22
+R001,2024,Assistance with Daily Life,Core,61929605.64,57147072.8
+R001,2024,Social & Community Participation,Core,83245967.77,81581048.42
+R001,2024,Consumables,Core,12385329.84,12137623.24
+R001,2024,Transport,Core,59184286.62,58000600.89
+R001,2024,Support Coordination,Capacity Building,70116823.14,60805120.67
+R001,2024,Improved Daily Living,Capacity Building,40320695.74,37963953.54
+R001,2024,Finding & Keeping a Job,Capacity Building,70087112.16,55056349.67
+R001,2024,Improved Health & Wellbeing,Capacity Building,122207287.23,115289527.94
+R001,2024,Assistive Technology,Capital,48252916.58,43162034.61
+R001,2024,Home Modifications,Capital,11511370.71,8662850.86
+R002,2020,Assistance with Daily Life,Core,87548335.92,79891071.35
+R002,2020,Social & Community Participation,Core,73964482.1,67421842.6
+R002,2020,Consumables,Core,17278110.61,16094951.29
+R002,2020,Transport,Core,49610122.14,42471948.87
+R002,2020,Support Coordination,Capacity Building,75120202.18,60070124.36
+R002,2020,Improved Daily Living,Capacity Building,51781708.75,45467264.74
+R002,2020,Finding & Keeping a Job,Capacity Building,88688491.5,69660041.99
+R002,2020,Improved Health & Wellbeing,Capacity Building,136829770.25,122272149.21
+R002,2020,Assistive Technology,Capital,44916145.37,36916759.22
+R002,2020,Home Modifications,Capital,13718448.78,9672941.61
+R002,2021,Assistance with Daily Life,Core,73072462.42,66619787.98
+R002,2021,Social & Community Participation,Core,91283437.23,80961901.16
+R002,2021,Consumables,Core,18051584.1,16028851.26
+R002,2021,Transport,Core,53395717.81,49650285.47
+R002,2021,Support Coordination,Capacity Building,90711546.75,76777849.45
+R002,2021,Improved Daily Living,Capacity Building,66658910.08,60889842.89
+R002,2021,Finding & Keeping a Job,Capacity Building,90875012.07,72256238.52
+R002,2021,Improved Health & Wellbeing,Capacity Building,166780696.48,152784678.88
+R002,2021,Assistive Technology,Capital,53219069.26,40525017.81
+R002,2021,Home Modifications,Capital,13276741.44,9306205.03
+R002,2022,Assistance with Daily Life,Core,82868346.33,78623747.86
+R002,2022,Social & Community Participation,Core,105134653.48,94118630.36
+R002,2022,Consumables,Core,25643482.65,23215983.9
+R002,2022,Transport,Core,88327722.88,83024852.42
+R002,2022,Support Coordination,Capacity Building,78821488.26,67098685.56
+R002,2022,Improved Daily Living,Capacity Building,57057421.95,51417768.73
+R002,2022,Finding & Keeping a Job,Capacity Building,99011434.11,77311603.55
+R002,2022,Improved Health & Wellbeing,Capacity Building,146231779.78,142983746.95
+R002,2022,Assistive Technology,Capital,62352867.8,49485328.85
+R002,2022,Home Modifications,Capital,12925537.48,9431821.65
+R002,2023,Assistance with Daily Life,Core,103301246.66,92695334.97
+R002,2023,Social & Community Participation,Core,121315408.34,113318942.54
+R002,2023,Consumables,Core,21893251.06,20499566.74
+R002,2023,Transport,Core,66511856.27,62188136.22
+R002,2023,Support Coordination,Capacity Building,101639501.12,83842027.4
+R002,2023,Improved Daily Living,Capacity Building,67411811.4,60262812.3
+R002,2023,Finding & Keeping a Job,Capacity Building,112680280.76,89660729.22
+R002,2023,Improved Health & Wellbeing,Capacity Building,151540606.36,137183415.29
+R002,2023,Assistive Technology,Capital,69750724.75,56347230.08
+R002,2023,Home Modifications,Capital,14784365.45,11234310.11
+R002,2024,Assistance with Daily Life,Core,114419014.51,109007748.32
+R002,2024,Social & Community Participation,Core,119696110.26,114120277.15
+R002,2024,Consumables,Core,23889245.17,21376844.73
+R002,2024,Transport,Core,94137734.76,84432412.03
+R002,2024,Support Coordination,Capacity Building,112033718.53,95327879.79
+R002,2024,Improved Daily Living,Capacity Building,75113953.26,73246883.57
+R002,2024,Finding & Keeping a Job,Capacity Building,130648051.71,106185883.87
+R002,2024,Improved Health & Wellbeing,Capacity Building,181506547.89,162509834.38
+R002,2024,Assistive Technology,Capital,75151449.33,59264411.9
+R002,2024,Home Modifications,Capital,17917931.02,13739182.04
+R003,2020,Assistance with Daily Life,Core,95257490.09,81683764.23
+R003,2020,Social & Community Participation,Core,114422755.25,104937561.45
+R003,2020,Consumables,Core,22485124.45,19671111.41
+R003,2020,Transport,Core,80628475.27,75678594.87
+R003,2020,Support Coordination,Capacity Building,104750242.67,81373525.2
+R003,2020,Improved Daily Living,Capacity Building,68736554.91,59109220.51
+R003,2020,Finding & Keeping a Job,Capacity Building,114336845.81,85141516.0
+R003,2020,Improved Health & Wellbeing,Capacity Building,159346811.4,137209290.23
+R003,2020,Assistive Technology,Capital,69504741.02,57820253.58
+R003,2020,Home Modifications,Capital,17198242.22,12128786.84
+R003,2021,Assistance with Daily Life,Core,110357537.22,105603448.14
+R003,2021,Social & Community Participation,Core,102857219.75,99075286.87
+R003,2021,Consumables,Core,27844511.28,27035791.6
+R003,2021,Transport,Core,87833713.64,81358119.53
+R003,2021,Support Coordination,Capacity Building,119244792.64,96462492.4
+R003,2021,Improved Daily Living,Capacity Building,73140959.85,65962800.89
+R003,2021,Finding & Keeping a Job,Capacity Building,160363242.65,126281119.59
+R003,2021,Improved Health & Wellbeing,Capacity Building,168195136.72,151908195.24
+R003,2021,Assistive Technology,Capital,79396023.34,67834945.09
+R003,2021,Home Modifications,Capital,15118248.34,11256549.87
+R003,2022,Assistance with Daily Life,Core,153208958.14,139210595.08
+R003,2022,Social & Community Participation,Core,130031587.49,118486716.53
+R003,2022,Consumables,Core,34312385.69,31333908.91
+R003,2022,Transport,Core,114136430.14,105971594.48
+R003,2022,Support Coordination,Capacity Building,101498376.08,83659999.29
+R003,2022,Improved Daily Living,Capacity Building,90397087.53,82031146.84
+R003,2022,Finding & Keeping a Job,Capacity Building,132636909.07,101237350.95
+R003,2022,Improved Health & Wellbeing,Capacity Building,226282355.85,214037389.03
+R003,2022,Assistive Technology,Capital,100394349.47,78360153.52
+R003,2022,Home Modifications,Capital,22810553.52,17109657.24
+R003,2023,Assistance with Daily Life,Core,167045863.22,163701140.38
+R003,2023,Social & Community Participation,Core,142855409.14,135968763.7
+R003,2023,Consumables,Core,32981229.9,32321605.3
+R003,2023,Transport,Core,109118846.8,100019855.02
+R003,2023,Support Coordination,Capacity Building,123573213.74,108024540.67
+R003,2023,Improved Daily Living,Capacity Building,99365192.14,95099039.81
+R003,2023,Finding & Keeping a Job,Capacity Building,173529556.91,133199673.14
+R003,2023,Improved Health & Wellbeing,Capacity Building,254962268.59,245297926.43
+R003,2023,Assistive Technology,Capital,102872682.36,85072451.09
+R003,2023,Home Modifications,Capital,22434938.23,17141708.63
+R003,2024,Assistance with Daily Life,Core,139157337.63,136374190.87
+R003,2024,Social & Community Participation,Core,197791310.69,182271453.66
+R003,2024,Consumables,Core,37744590.46,35348620.65
+R003,2024,Transport,Core,120737415.98,115674133.41
+R003,2024,Support Coordination,Capacity Building,119712333.87,100960511.56
+R003,2024,Improved Daily Living,Capacity Building,93675359.38,91801852.2
+R003,2024,Finding & Keeping a Job,Capacity Building,145720736.48,116198115.7
+R003,2024,Improved Health & Wellbeing,Capacity Building,291650363.98,279086852.72
+R003,2024,Assistive Technology,Capital,112747542.47,96447703.78
+R003,2024,Home Modifications,Capital,21891606.46,16457701.96
+R004,2020,Assistance with Daily Life,Core,47717444.54,40947950.44
+R004,2020,Social & Community Participation,Core,53058938.67,44453123.51
+R004,2020,Consumables,Core,9493879.87,8235923.63
+R004,2020,Transport,Core,31514172.65,25646093.13
+R004,2020,Support Coordination,Capacity Building,33746026.55,26864875.24
+R004,2020,Improved Daily Living,Capacity Building,34818273.07,30775287.82
+R004,2020,Finding & Keeping a Job,Capacity Building,44386237.41,32449220.45
+R004,2020,Improved Health & Wellbeing,Capacity Building,63523858.67,51872391.04
+R004,2020,Assistive Technology,Capital,33962930.92,26644592.91
+R004,2020,Home Modifications,Capital,6543785.91,4663551.83
+R004,2021,Assistance with Daily Life,Core,52720790.84,45476775.23
+R004,2021,Social & Community Participation,Core,48783442.27,41545820.66
+R004,2021,Consumables,Core,9002177.16,7840311.32
+R004,2021,Transport,Core,42530471.48,35769472.92
+R004,2021,Support Coordination,Capacity Building,51740334.1,41102443.14
+R004,2021,Improved Daily Living,Capacity Building,37451825.5,32892179.81
+R004,2021,Finding & Keeping a Job,Capacity Building,51918406.61,38067660.49
+R004,2021,Improved Health & Wellbeing,Capacity Building,75446612.11,67924582.08
+R004,2021,Assistive Technology,Capital,29200094.11,21944121.44
+R004,2021,Home Modifications,Capital,7800265.08,5386533.73
+R004,2022,Assistance with Daily Life,Core,45973244.78,41759273.84
+R004,2022,Social & Community Participation,Core,71169903.44,61000566.85
+R004,2022,Consumables,Core,12629623.7,10994643.75
+R004,2022,Transport,Core,50345801.9,45040859.64
+R004,2022,Support Coordination,Capacity Building,58029814.26,48552531.88
+R004,2022,Improved Daily Living,Capacity Building,36721868.71,32879479.33
+R004,2022,Finding & Keeping a Job,Capacity Building,67250803.48,50001166.25
+R004,2022,Improved Health & Wellbeing,Capacity Building,81730825.82,69757189.52
+R004,2022,Assistive Technology,Capital,43089084.76,34166934.99
+R004,2022,Home Modifications,Capital,7339010.18,5284267.96
+R004,2023,Assistance with Daily Life,Core,64770798.76,55788363.7
+R004,2023,Social & Community Participation,Core,55706958.03,47134799.66
+R004,2023,Consumables,Core,14410815.32,12924477.37
+R004,2023,Transport,Core,58860888.3,52427936.82
+R004,2023,Support Coordination,Capacity Building,65961390.06,50974829.71
+R004,2023,Improved Daily Living,Capacity Building,48849375.04,41812051.14
+R004,2023,Finding & Keeping a Job,Capacity Building,64728467.97,46494616.97
+R004,2023,Improved Health & Wellbeing,Capacity Building,99004670.38,91306702.29
+R004,2023,Assistive Technology,Capital,48201883.06,37872747.93
+R004,2023,Home Modifications,Capital,10825282.81,7421349.04
+R004,2024,Assistance with Daily Life,Core,63047336.9,58567589.99
+R004,2024,Social & Community Participation,Core,81975226.34,73322062.64
+R004,2024,Consumables,Core,15744040.3,13914325.68
+R004,2024,Transport,Core,60505229.27,52696127.12
+R004,2024,Support Coordination,Capacity Building,54961604.84,44410581.71
+R004,2024,Improved Daily Living,Capacity Building,52473045.53,46745412.72
+R004,2024,Finding & Keeping a Job,Capacity Building,65239132.01,50815597.07
+R004,2024,Improved Health & Wellbeing,Capacity Building,117747759.87,102338046.32
+R004,2024,Assistive Technology,Capital,46201523.32,36586083.34
+R004,2024,Home Modifications,Capital,10355456.85,7005486.45
+R005,2020,Assistance with Daily Life,Core,27473425.0,21568979.87
+R005,2020,Social & Community Participation,Core,24350652.16,17652933.64
+R005,2020,Consumables,Core,5754292.02,4533858.17
+R005,2020,Transport,Core,17969725.37,13831927.98
+R005,2020,Support Coordination,Capacity Building,20640268.25,13709615.48
+R005,2020,Improved Daily Living,Capacity Building,14877048.2,11594215.15
+R005,2020,Finding & Keeping a Job,Capacity Building,27672192.12,17126380.54
+R005,2020,Improved Health & Wellbeing,Capacity Building,44207403.73,32065948.9
+R005,2020,Assistive Technology,Capital,14722717.86,9942124.66
+R005,2020,Home Modifications,Capital,3067127.65,1820381.33
+R005,2021,Assistance with Daily Life,Core,30375881.41,24456135.02
+R005,2021,Social & Community Participation,Core,24058792.05,18985578.42
+R005,2021,Consumables,Core,6334736.64,4870588.14
+R005,2021,Transport,Core,23088941.58,17724180.67
+R005,2021,Support Coordination,Capacity Building,28954669.75,20203470.92
+R005,2021,Improved Daily Living,Capacity Building,20431599.55,15761306.76
+R005,2021,Finding & Keeping a Job,Capacity Building,30955070.07,21284039.59
+R005,2021,Improved Health & Wellbeing,Capacity Building,37948486.97,28061525.79
+R005,2021,Assistive Technology,Capital,20609676.94,13792408.03
+R005,2021,Home Modifications,Capital,3671458.39,2284971.22
+R005,2022,Assistance with Daily Life,Core,32981010.94,24334965.83
+R005,2022,Social & Community Participation,Core,35994300.77,27763202.74
+R005,2022,Consumables,Core,6036336.67,4701768.38
+R005,2022,Transport,Core,27874207.29,20690427.68
+R005,2022,Support Coordination,Capacity Building,26544788.15,17738246.52
+R005,2022,Improved Daily Living,Capacity Building,22144255.44,17615327.34
+R005,2022,Finding & Keeping a Job,Capacity Building,34324350.14,21399157.42
+R005,2022,Improved Health & Wellbeing,Capacity Building,50342864.73,37995111.74
+R005,2022,Assistive Technology,Capital,24375887.3,15740100.01
+R005,2022,Home Modifications,Capital,4832486.9,2847164.43
+R005,2023,Assistance with Daily Life,Core,31141508.78,24062073.94
+R005,2023,Social & Community Participation,Core,45872682.24,37709627.5
+R005,2023,Consumables,Core,9171679.33,7550259.74
+R005,2023,Transport,Core,26700344.58,21303062.35
+R005,2023,Support Coordination,Capacity Building,28733224.36,21163351.06
+R005,2023,Improved Daily Living,Capacity Building,26137927.05,20190067.94
+R005,2023,Finding & Keeping a Job,Capacity Building,37365549.01,26329011.62
+R005,2023,Improved Health & Wellbeing,Capacity Building,53922419.21,42426253.57
+R005,2023,Assistive Technology,Capital,23871554.4,16954880.93
+R005,2023,Home Modifications,Capital,5053750.76,3231773.36
+R005,2024,Assistance with Daily Life,Core,41315718.28,31724066.49
+R005,2024,Social & Community Participation,Core,46661985.43,36280461.47
+R005,2024,Consumables,Core,8133867.6,6189106.36
+R005,2024,Transport,Core,34004296.68,25943227.64
+R005,2024,Support Coordination,Capacity Building,33075896.37,22745375.12
+R005,2024,Improved Daily Living,Capacity Building,21546852.42,16924910.94
+R005,2024,Finding & Keeping a Job,Capacity Building,46605503.68,32396187.58
+R005,2024,Improved Health & Wellbeing,Capacity Building,64145264.51,52754637.19
+R005,2024,Assistive Technology,Capital,28828998.18,20969581.32
+R005,2024,Home Modifications,Capital,6761242.99,4410416.49
+R006,2020,Assistance with Daily Life,Core,39020371.65,31771841.66
+R006,2020,Social & Community Participation,Core,31344154.7,26201028.26
+R006,2020,Consumables,Core,8012802.24,6874371.52
+R006,2020,Transport,Core,21848354.71,18983759.68
+R006,2020,Support Coordination,Capacity Building,35455643.51,25984377.47
+R006,2020,Improved Daily Living,Capacity Building,22857535.34,19199366.5
+R006,2020,Finding & Keeping a Job,Capacity Building,44844933.04,32899750.59
+R006,2020,Improved Health & Wellbeing,Capacity Building,45402075.42,39145099.73
+R006,2020,Assistive Technology,Capital,20658307.02,15480328.37
+R006,2020,Home Modifications,Capital,5818107.82,3757698.3
+R006,2021,Assistance with Daily Life,Core,32571216.92,27055743.71
+R006,2021,Social & Community Participation,Core,40312841.08,33381645.47
+R006,2021,Consumables,Core,7381257.9,6227172.47
+R006,2021,Transport,Core,26420605.21,23178674.29
+R006,2021,Support Coordination,Capacity Building,32572393.55,25390176.48
+R006,2021,Improved Daily Living,Capacity Building,21448901.0,18610965.98
+R006,2021,Finding & Keeping a Job,Capacity Building,38435355.42,27571230.01
+R006,2021,Improved Health & Wellbeing,Capacity Building,65167186.62,55866186.1
+R006,2021,Assistive Technology,Capital,22272201.2,17840353.98
+R006,2021,Home Modifications,Capital,4929414.57,3268132.43
+R006,2022,Assistance with Daily Life,Core,37470840.85,31228087.59
+R006,2022,Social & Community Participation,Core,33315856.64,28563457.45
+R006,2022,Consumables,Core,7769870.69,6515562.55
+R006,2022,Transport,Core,29175848.55,25802082.72
+R006,2022,Support Coordination,Capacity Building,31064344.57,24622668.09
+R006,2022,Improved Daily Living,Capacity Building,28761632.24,24515196.15
+R006,2022,Finding & Keeping a Job,Capacity Building,50885821.27,38196594.01
+R006,2022,Improved Health & Wellbeing,Capacity Building,65971732.18,56240528.58
+R006,2022,Assistive Technology,Capital,23418337.06,17319170.79
+R006,2022,Home Modifications,Capital,5640008.89,4060817.96
+R006,2023,Assistance with Daily Life,Core,53412735.16,50454798.24
+R006,2023,Social & Community Participation,Core,54302922.88,46746131.84
+R006,2023,Consumables,Core,10538317.98,9055864.2
+R006,2023,Transport,Core,30931182.76,29188988.11
+R006,2023,Support Coordination,Capacity Building,36826457.55,30423660.6
+R006,2023,Improved Daily Living,Capacity Building,30055424.37,26674988.43
+R006,2023,Finding & Keeping a Job,Capacity Building,59094627.77,45252289.64
+R006,2023,Improved Health & Wellbeing,Capacity Building,75804449.14,69908801.89
+R006,2023,Assistive Technology,Capital,26560135.32,21895254.74
+R006,2023,Home Modifications,Capital,8739194.39,6088530.63
+R006,2024,Assistance with Daily Life,Core,64245319.42,54893038.52
+R006,2024,Social & Community Participation,Core,59471584.92,52572977.12
+R006,2024,Consumables,Core,14137581.15,12457290.06
+R006,2024,Transport,Core,45272587.62,41065425.52
+R006,2024,Support Coordination,Capacity Building,40772959.06,33723046.73
+R006,2024,Improved Daily Living,Capacity Building,31874804.85,29038816.73
+R006,2024,Finding & Keeping a Job,Capacity Building,66825832.54,49524180.25
+R006,2024,Improved Health & Wellbeing,Capacity Building,75812233.72,69299571.02
+R006,2024,Assistive Technology,Capital,32545073.13,25262336.22
+R006,2024,Home Modifications,Capital,7385313.87,5111982.65
+R007,2020,Assistance with Daily Life,Core,8423680.94,6644958.17
+R007,2020,Social & Community Participation,Core,12457609.98,9414617.5
+R007,2020,Consumables,Core,1913861.81,1381700.14
+R007,2020,Transport,Core,7611878.03,5567999.96
+R007,2020,Support Coordination,Capacity Building,8600796.13,6090749.79
+R007,2020,Improved Daily Living,Capacity Building,7541307.43,5893813.52
+R007,2020,Finding & Keeping a Job,Capacity Building,9638228.71,6200599.8
+R007,2020,Improved Health & Wellbeing,Capacity Building,18115825.95,14131234.82
+R007,2020,Assistive Technology,Capital,6918317.68,4491458.19
+R007,2020,Home Modifications,Capital,1585198.8,991963.16
+R007,2021,Assistance with Daily Life,Core,10214328.33,7764658.94
+R007,2021,Social & Community Participation,Core,12201911.09,9750575.73
+R007,2021,Consumables,Core,2563490.38,1949072.91
+R007,2021,Transport,Core,7437556.99,6033623.63
+R007,2021,Support Coordination,Capacity Building,8731396.25,6261284.78
+R007,2021,Improved Daily Living,Capacity Building,7274331.19,5785396.31
+R007,2021,Finding & Keeping a Job,Capacity Building,12000815.37,7958073.15
+R007,2021,Improved Health & Wellbeing,Capacity Building,19066194.97,15216680.82
+R007,2021,Assistive Technology,Capital,7155792.01,5137166.95
+R007,2021,Home Modifications,Capital,1337423.38,805608.1
+R007,2022,Assistance with Daily Life,Core,10023033.58,7478115.54
+R007,2022,Social & Community Participation,Core,10429082.33,8326508.9
+R007,2022,Consumables,Core,2501791.07,1987139.9
+R007,2022,Transport,Core,8537706.78,6753004.59
+R007,2022,Support Coordination,Capacity Building,12404749.67,8588110.65
+R007,2022,Improved Daily Living,Capacity Building,8998445.05,7147922.94
+R007,2022,Finding & Keeping a Job,Capacity Building,13316519.59,8792071.87
+R007,2022,Improved Health & Wellbeing,Capacity Building,18039819.62,13862903.2
+R007,2022,Assistive Technology,Capital,9129267.8,5989509.54
+R007,2022,Home Modifications,Capital,1597546.51,1024303.18
+R007,2023,Assistance with Daily Life,Core,14170190.48,10903846.41
+R007,2023,Social & Community Participation,Core,11108095.58,8568173.78
+R007,2023,Consumables,Core,2179984.98,1720682.33
+R007,2023,Transport,Core,9082498.95,6976691.36
+R007,2023,Support Coordination,Capacity Building,10787629.2,7729869.3
+R007,2023,Improved Daily Living,Capacity Building,8108997.83,6790848.31
+R007,2023,Finding & Keeping a Job,Capacity Building,16213279.23,10554663.08
+R007,2023,Improved Health & Wellbeing,Capacity Building,22091578.8,17248591.95
+R007,2023,Assistive Technology,Capital,8354282.96,5758707.41
+R007,2023,Home Modifications,Capital,1569302.49,974827.95
+R007,2024,Assistance with Daily Life,Core,12406431.46,9909128.92
+R007,2024,Social & Community Participation,Core,15813566.75,12128831.49
+R007,2024,Consumables,Core,3784586.67,3134590.43
+R007,2024,Transport,Core,10715599.4,8248087.7
+R007,2024,Support Coordination,Capacity Building,13308317.66,9242469.22
+R007,2024,Improved Daily Living,Capacity Building,9168576.05,6924412.85
+R007,2024,Finding & Keeping a Job,Capacity Building,14766699.65,10160450.27
+R007,2024,Improved Health & Wellbeing,Capacity Building,24398486.75,18989091.3
+R007,2024,Assistive Technology,Capital,9322684.26,6712603.33
+R007,2024,Home Modifications,Capital,2114828.35,1329072.49
+R008,2020,Assistance with Daily Life,Core,64714469.62,56972718.55
+R008,2020,Social & Community Participation,Core,78327199.38,70495530.83
+R008,2020,Consumables,Core,14209410.49,11716496.47
+R008,2020,Transport,Core,53771722.33,45399860.23
+R008,2020,Support Coordination,Capacity Building,59341932.42,45718944.42
+R008,2020,Improved Daily Living,Capacity Building,49376987.31,43284603.87
+R008,2020,Finding & Keeping a Job,Capacity Building,80641456.75,59524899.97
+R008,2020,Improved Health & Wellbeing,Capacity Building,91608715.06,78674580.77
+R008,2020,Assistive Technology,Capital,42601128.33,32989478.77
+R008,2020,Home Modifications,Capital,10190453.03,6978064.3
+R008,2021,Assistance with Daily Life,Core,86137297.87,74408451.05
+R008,2021,Social & Community Participation,Core,94209659.32,82339622.4
+R008,2021,Consumables,Core,16415638.83,14623439.6
+R008,2021,Transport,Core,59931818.51,51748281.5
+R008,2021,Support Coordination,Capacity Building,61840811.7,47669295.62
+R008,2021,Improved Daily Living,Capacity Building,56963704.85,50642340.67
+R008,2021,Finding & Keeping a Job,Capacity Building,80489411.55,62556610.02
+R008,2021,Improved Health & Wellbeing,Capacity Building,126014389.61,108283327.17
+R008,2021,Assistive Technology,Capital,52798912.6,39151758.25
+R008,2021,Home Modifications,Capital,12737291.85,8982008.7
+R008,2022,Assistance with Daily Life,Core,81607048.84,75656321.3
+R008,2022,Social & Community Participation,Core,85725753.46,73919023.04
+R008,2022,Consumables,Core,15261107.63,13950813.53
+R008,2022,Transport,Core,65267143.58,58070853.42
+R008,2022,Support Coordination,Capacity Building,74943422.49,60830517.98
+R008,2022,Improved Daily Living,Capacity Building,64809975.04,60164175.6
+R008,2022,Finding & Keeping a Job,Capacity Building,92827179.8,70182100.39
+R008,2022,Improved Health & Wellbeing,Capacity Building,135631954.41,118090372.52
+R008,2022,Assistive Technology,Capital,55164923.65,43695782.97
+R008,2022,Home Modifications,Capital,14334486.05,10031661.97
+R008,2023,Assistance with Daily Life,Core,92934608.52,83473080.26
+R008,2023,Social & Community Participation,Core,99902094.82,89516533.97
+R008,2023,Consumables,Core,18820934.63,16872220.33
+R008,2023,Transport,Core,78679623.32,70899198.8
+R008,2023,Support Coordination,Capacity Building,92498418.08,75734198.7
+R008,2023,Improved Daily Living,Capacity Building,83997307.79,74627910.78
+R008,2023,Finding & Keeping a Job,Capacity Building,131252955.06,98063139.01
+R008,2023,Improved Health & Wellbeing,Capacity Building,143872772.97,128477838.28
+R008,2023,Assistive Technology,Capital,83704885.6,66116118.55
+R008,2023,Home Modifications,Capital,14899291.49,10791772.9
+R008,2024,Assistance with Daily Life,Core,105777296.22,95855875.57
+R008,2024,Social & Community Participation,Core,123927557.84,120089327.36
+R008,2024,Consumables,Core,23415452.91,22282391.29
+R008,2024,Transport,Core,105631341.99,94126598.25
+R008,2024,Support Coordination,Capacity Building,100231215.18,80725089.59
+R008,2024,Improved Daily Living,Capacity Building,65421421.1,58949773.05
+R008,2024,Finding & Keeping a Job,Capacity Building,134016783.79,101503963.26
+R008,2024,Improved Health & Wellbeing,Capacity Building,188418003.7,170784414.71
+R008,2024,Assistive Technology,Capital,66722050.24,54139426.96
+R008,2024,Home Modifications,Capital,15697540.71,12062842.12
+R009,2020,Assistance with Daily Life,Core,22819087.76,21498275.43
+R009,2020,Social & Community Participation,Core,28265752.59,25958865.31
+R009,2020,Consumables,Core,4532436.77,3916915.09
+R009,2020,Transport,Core,18750072.52,16899044.91
+R009,2020,Support Coordination,Capacity Building,23243936.86,18050442.81
+R009,2020,Improved Daily Living,Capacity Building,13408812.66,11994695.64
+R009,2020,Finding & Keeping a Job,Capacity Building,25915972.28,19752848.97
+R009,2020,Improved Health & Wellbeing,Capacity Building,39260508.58,34711268.27
+R009,2020,Assistive Technology,Capital,15940999.02,13060264.83
+R009,2020,Home Modifications,Capital,3153238.45,2190711.85
+R009,2021,Assistance with Daily Life,Core,22580188.18,20265961.76
+R009,2021,Social & Community Participation,Core,22496186.2,20179036.86
+R009,2021,Consumables,Core,4882800.82,4748418.57
+R009,2021,Transport,Core,23050509.61,21142879.65
+R009,2021,Support Coordination,Capacity Building,25766850.87,21944797.3
+R009,2021,Improved Daily Living,Capacity Building,20659748.49,20131899.06
+R009,2021,Finding & Keeping a Job,Capacity Building,30623582.82,23965719.93
+R009,2021,Improved Health & Wellbeing,Capacity Building,49692757.2,47001328.71
+R009,2021,Assistive Technology,Capital,16705020.67,13630182.48
+R009,2021,Home Modifications,Capital,3578052.77,2785015.85
+R009,2022,Assistance with Daily Life,Core,33648764.11,29760895.28
+R009,2022,Social & Community Participation,Core,33428422.38,32026997.03
+R009,2022,Consumables,Core,6422265.44,6098416.89
+R009,2022,Transport,Core,22625689.89,21231397.32
+R009,2022,Support Coordination,Capacity Building,30605581.23,24656130.39
+R009,2022,Improved Daily Living,Capacity Building,20907866.48,18669798.76
+R009,2022,Finding & Keeping a Job,Capacity Building,28866898.05,22878474.3
+R009,2022,Improved Health & Wellbeing,Capacity Building,52492619.94,46298389.06
+R009,2022,Assistive Technology,Capital,21575799.84,16584241.73
+R009,2022,Home Modifications,Capital,3806387.83,2705786.74
+R009,2023,Assistance with Daily Life,Core,28752856.5,27843663.94
+R009,2023,Social & Community Participation,Core,36880761.28,36143146.06
+R009,2023,Consumables,Core,7092476.61,6628792.73
+R009,2023,Transport,Core,31481013.4,28466322.54
+R009,2023,Support Coordination,Capacity Building,39060937.0,34754147.84
+R009,2023,Improved Daily Living,Capacity Building,22458035.6,21851853.2
+R009,2023,Finding & Keeping a Job,Capacity Building,44339030.74,35813926.36
+R009,2023,Improved Health & Wellbeing,Capacity Building,49651092.7,47323024.66
+R009,2023,Assistive Technology,Capital,20735786.41,16981113.9
+R009,2023,Home Modifications,Capital,4410779.89,3260091.65
+R009,2024,Assistance with Daily Life,Core,30313297.79,28466132.98
+R009,2024,Social & Community Participation,Core,39079390.93,38297803.12
+R009,2024,Consumables,Core,9424284.67,9191280.31
+R009,2024,Transport,Core,28060635.67,27499422.95
+R009,2024,Support Coordination,Capacity Building,34989711.76,30632133.73
+R009,2024,Improved Daily Living,Capacity Building,20793158.33,19493324.83
+R009,2024,Finding & Keeping a Job,Capacity Building,42593314.57,35324209.4
+R009,2024,Improved Health & Wellbeing,Capacity Building,64808216.77,61400247.86
+R009,2024,Assistive Technology,Capital,27154377.42,22319111.11
+R009,2024,Home Modifications,Capital,6638209.73,5350393.33
+R010,2020,Assistance with Daily Life,Core,197311887.27,178605822.81
+R010,2020,Social & Community Participation,Core,228703202.95,205922157.78
+R010,2020,Consumables,Core,53498656.21,45608923.46
+R010,2020,Transport,Core,196051113.07,169136598.94
+R010,2020,Support Coordination,Capacity Building,203141422.84,162114698.39
+R010,2020,Improved Daily Living,Capacity Building,152146963.94,132528763.6
+R010,2020,Finding & Keeping a Job,Capacity Building,235670068.48,177339695.38
+R010,2020,Improved Health & Wellbeing,Capacity Building,428959203.02,376741450.44
+R010,2020,Assistive Technology,Capital,141921515.29,106301800.76
+R010,2020,Home Modifications,Capital,39872477.19,27253383.34
+R010,2021,Assistance with Daily Life,Core,241398061.94,219562004.58
+R010,2021,Social & Community Participation,Core,250909888.01,231225170.18
+R010,2021,Consumables,Core,56938931.67,53308715.69
+R010,2021,Transport,Core,192592033.79,164441910.75
+R010,2021,Support Coordination,Capacity Building,272670219.0,220335008.65
+R010,2021,Improved Daily Living,Capacity Building,161071202.72,142176485.81
+R010,2021,Finding & Keeping a Job,Capacity Building,249213338.48,189858922.86
+R010,2021,Improved Health & Wellbeing,Capacity Building,422816910.79,361283634.82
+R010,2021,Assistive Technology,Capital,184664336.07,141311527.62
+R010,2021,Home Modifications,Capital,36797796.78,26642853.0
+R010,2022,Assistance with Daily Life,Core,259670873.93,243501963.46
+R010,2022,Social & Community Participation,Core,280066749.62,260643472.76
+R010,2022,Consumables,Core,52708089.98,45379658.03
+R010,2022,Transport,Core,199252762.27,172622209.62
+R010,2022,Support Coordination,Capacity Building,218520620.9,184873205.7
+R010,2022,Improved Daily Living,Capacity Building,211886561.38,187250128.23
+R010,2022,Finding & Keeping a Job,Capacity Building,352268377.76,279869216.73
+R010,2022,Improved Health & Wellbeing,Capacity Building,534084987.25,471167287.12
+R010,2022,Assistive Technology,Capital,194496140.52,160308867.13
+R010,2022,Home Modifications,Capital,40118565.64,28882358.73
+R010,2023,Assistance with Daily Life,Core,273453080.34,256106006.03
+R010,2023,Social & Community Participation,Core,298042304.55,284776571.42
+R010,2023,Consumables,Core,66630007.06,60472442.36
+R010,2023,Transport,Core,231827585.14,218691783.17
+R010,2023,Support Coordination,Capacity Building,315712795.37,256842289.21
+R010,2023,Improved Daily Living,Capacity Building,219079725.73,193468360.51
+R010,2023,Finding & Keeping a Job,Capacity Building,394427886.73,314368168.47
+R010,2023,Improved Health & Wellbeing,Capacity Building,472832252.73,452037365.98
+R010,2023,Assistive Technology,Capital,236171387.87,198387749.18
+R010,2023,Home Modifications,Capital,53530654.49,40409501.94
+R010,2024,Assistance with Daily Life,Core,283771029.58,257911605.6
+R010,2024,Social & Community Participation,Core,407620818.46,362034077.61
+R010,2024,Consumables,Core,60991178.61,54911673.78
+R010,2024,Transport,Core,259070833.43,237835992.51
+R010,2024,Support Coordination,Capacity Building,315581353.79,269523622.63
+R010,2024,Improved Daily Living,Capacity Building,268208255.14,242285397.29
+R010,2024,Finding & Keeping a Job,Capacity Building,422782088.09,328432027.51
+R010,2024,Improved Health & Wellbeing,Capacity Building,647803952.61,608839920.31
+R010,2024,Assistive Technology,Capital,258828847.65,204058932.25
+R010,2024,Home Modifications,Capital,47277242.56,33824090.0
+R011,2020,Assistance with Daily Life,Core,38473351.03,29989933.0
+R011,2020,Social & Community Participation,Core,32641307.61,25854890.7
+R011,2020,Consumables,Core,6351485.02,5038969.0
+R011,2020,Transport,Core,21110751.47,16455868.87
+R011,2020,Support Coordination,Capacity Building,30465724.03,21625094.78
+R011,2020,Improved Daily Living,Capacity Building,24356194.52,18263767.96
+R011,2020,Finding & Keeping a Job,Capacity Building,37134051.77,24917314.7
+R011,2020,Improved Health & Wellbeing,Capacity Building,64838503.6,50178993.39
+R011,2020,Assistive Technology,Capital,26076230.35,18301376.8
+R011,2020,Home Modifications,Capital,5734975.99,3752068.88
+R011,2021,Assistance with Daily Life,Core,41071771.31,32847331.58
+R011,2021,Social & Community Participation,Core,38503948.43,30743082.19
+R011,2021,Consumables,Core,8464220.5,6960987.68
+R011,2021,Transport,Core,24194854.95,20667956.64
+R011,2021,Support Coordination,Capacity Building,28654671.3,20069318.81
+R011,2021,Improved Daily Living,Capacity Building,27345399.2,22008653.01
+R011,2021,Finding & Keeping a Job,Capacity Building,47190891.3,31618167.36
+R011,2021,Improved Health & Wellbeing,Capacity Building,70578089.81,58266444.05
+R011,2021,Assistive Technology,Capital,22011718.0,15153549.24
+R011,2021,Home Modifications,Capital,4893444.36,3079674.34
+R011,2022,Assistance with Daily Life,Core,47181081.85,38525644.9
+R011,2022,Social & Community Participation,Core,51475076.54,42072129.5
+R011,2022,Consumables,Core,9122992.45,7436932.4
+R011,2022,Transport,Core,25397060.77,19458452.67
+R011,2022,Support Coordination,Capacity Building,36646843.14,26590061.77
+R011,2022,Improved Daily Living,Capacity Building,24609613.89,19030209.94
+R011,2022,Finding & Keeping a Job,Capacity Building,47804549.3,33420774.84
+R011,2022,Improved Health & Wellbeing,Capacity Building,66667273.45,53612974.56
+R011,2022,Assistive Technology,Capital,26782467.82,18824754.44
+R011,2022,Home Modifications,Capital,7520443.8,4978716.02
+R011,2023,Assistance with Daily Life,Core,49098805.9,39815973.04
+R011,2023,Social & Community Participation,Core,57401932.84,47000001.43
+R011,2023,Consumables,Core,9658068.52,7656469.28
+R011,2023,Transport,Core,44628536.71,37052254.04
+R011,2023,Support Coordination,Capacity Building,38727277.2,28289176.24
+R011,2023,Improved Daily Living,Capacity Building,31118632.9,24735515.56
+R011,2023,Finding & Keeping a Job,Capacity Building,60555772.18,43450770.21
+R011,2023,Improved Health & Wellbeing,Capacity Building,82870139.87,69326483.32
+R011,2023,Assistive Technology,Capital,34229571.55,25588630.07
+R011,2023,Home Modifications,Capital,6900366.28,4541781.88
+R011,2024,Assistance with Daily Life,Core,52945843.01,42780167.55
+R011,2024,Social & Community Participation,Core,55920085.41,45758206.22
+R011,2024,Consumables,Core,11087616.5,9163058.25
+R011,2024,Transport,Core,43817821.36,35703867.79
+R011,2024,Support Coordination,Capacity Building,54322144.58,40095149.97
+R011,2024,Improved Daily Living,Capacity Building,34014847.14,27486666.4
+R011,2024,Finding & Keeping a Job,Capacity Building,68866709.83,49146878.41
+R011,2024,Improved Health & Wellbeing,Capacity Building,104160070.99,87432281.25
+R011,2024,Assistive Technology,Capital,42286561.73,30834367.04
+R011,2024,Home Modifications,Capital,9377945.05,6172353.07
+R012,2020,Assistance with Daily Life,Core,31350435.85,21767975.37
+R012,2020,Social & Community Participation,Core,30413871.92,22318175.8
+R012,2020,Consumables,Core,6750611.07,4757374.12
+R012,2020,Transport,Core,28717435.88,19845209.72
+R012,2020,Support Coordination,Capacity Building,30051764.81,18669978.43
+R012,2020,Improved Daily Living,Capacity Building,21227521.28,14622830.2
+R012,2020,Finding & Keeping a Job,Capacity Building,30595103.18,18162572.35
+R012,2020,Improved Health & Wellbeing,Capacity Building,43080921.81,29636552.55
+R012,2020,Assistive Technology,Capital,17877706.6,11201354.69
+R012,2020,Home Modifications,Capital,3959117.84,2294507.04
+R012,2021,Assistance with Daily Life,Core,31101025.62,21306897.33
+R012,2021,Social & Community Participation,Core,35204738.86,26402546.86
+R012,2021,Consumables,Core,7897672.67,5860155.12
+R012,2021,Transport,Core,23111015.15,16755262.61
+R012,2021,Support Coordination,Capacity Building,26888138.64,16806843.33
+R012,2021,Improved Daily Living,Capacity Building,19472997.48,13359341.29
+R012,2021,Finding & Keeping a Job,Capacity Building,35065688.72,21349045.72
+R012,2021,Improved Health & Wellbeing,Capacity Building,60107054.19,42711945.8
+R012,2021,Assistive Technology,Capital,21058177.23,12926065.92
+R012,2021,Home Modifications,Capital,3883806.7,2315365.87
+R012,2022,Assistance with Daily Life,Core,33338365.5,24736133.12
+R012,2022,Social & Community Participation,Core,42682686.5,31156256.65
+R012,2022,Consumables,Core,8713195.75,6123587.52
+R012,2022,Transport,Core,31447761.99,22435068.51
+R012,2022,Support Coordination,Capacity Building,32645639.3,21869620.25
+R012,2022,Improved Daily Living,Capacity Building,21482545.93,16140053.37
+R012,2022,Finding & Keeping a Job,Capacity Building,39883806.69,25078810.82
+R012,2022,Improved Health & Wellbeing,Capacity Building,63576756.48,47868022.57
+R012,2022,Assistive Technology,Capital,26483200.93,17112343.12
+R012,2022,Home Modifications,Capital,5358377.25,3257462.66
+R012,2023,Assistance with Daily Life,Core,38966886.65,27629674.28
+R012,2023,Social & Community Participation,Core,47990871.93,35819579.7
+R012,2023,Consumables,Core,11134038.83,8598309.23
+R012,2023,Transport,Core,33088824.59,25037219.64
+R012,2023,Support Coordination,Capacity Building,45787698.94,30119411.17
+R012,2023,Improved Daily Living,Capacity Building,23209268.36,16647066.88
+R012,2023,Finding & Keeping a Job,Capacity Building,44657502.18,27696211.9
+R012,2023,Improved Health & Wellbeing,Capacity Building,75709461.66,56328157.29
+R012,2023,Assistive Technology,Capital,27818638.69,18357149.22
+R012,2023,Home Modifications,Capital,7412597.95,4559476.22
+R012,2024,Assistance with Daily Life,Core,40360522.04,32018365.68
+R012,2024,Social & Community Participation,Core,56993030.94,42631160.61
+R012,2024,Consumables,Core,10551203.34,8356919.59
+R012,2024,Transport,Core,37793072.76,27903786.26
+R012,2024,Support Coordination,Capacity Building,43413795.06,29994004.26
+R012,2024,Improved Daily Living,Capacity Building,28751239.87,21768168.23
+R012,2024,Finding & Keeping a Job,Capacity Building,51668881.46,34294040.08
+R012,2024,Improved Health & Wellbeing,Capacity Building,78417472.93,57868516.94
+R012,2024,Assistive Technology,Capital,30018862.75,19351287.8
+R012,2024,Home Modifications,Capital,7469550.9,4382688.68
+R013,2020,Assistance with Daily Life,Core,44627106.95,35248801.89
+R013,2020,Social & Community Participation,Core,38467216.97,30094694.53
+R013,2020,Consumables,Core,9616856.45,7783536.43
+R013,2020,Transport,Core,34530255.49,26870888.34
+R013,2020,Support Coordination,Capacity Building,40514195.54,29881366.88
+R013,2020,Improved Daily Living,Capacity Building,27866663.54,22749047.71
+R013,2020,Finding & Keeping a Job,Capacity Building,51477848.68,34926072.11
+R013,2020,Improved Health & Wellbeing,Capacity Building,67611567.33,56168783.96
+R013,2020,Assistive Technology,Capital,31567765.95,21513969.33
+R013,2020,Home Modifications,Capital,7041240.08,4453356.18
+R013,2021,Assistance with Daily Life,Core,40978456.33,31775142.34
+R013,2021,Social & Community Participation,Core,43289622.7,34862209.73
+R013,2021,Consumables,Core,9551025.72,7147530.43
+R013,2021,Transport,Core,40762602.52,31938309.33
+R013,2021,Support Coordination,Capacity Building,35648441.15,25671794.89
+R013,2021,Improved Daily Living,Capacity Building,36030608.26,27872228.57
+R013,2021,Finding & Keeping a Job,Capacity Building,45117791.25,31223561.86
+R013,2021,Improved Health & Wellbeing,Capacity Building,82327785.09,62038509.71
+R013,2021,Assistive Technology,Capital,33440518.78,22642183.11
+R013,2021,Home Modifications,Capital,8525414.13,5145406.31
+R013,2022,Assistance with Daily Life,Core,56834186.41,48589299.18
+R013,2022,Social & Community Participation,Core,69312983.87,58440973.72
+R013,2022,Consumables,Core,10492188.71,8483217.34
+R013,2022,Transport,Core,48167486.84,41338582.77
+R013,2022,Support Coordination,Capacity Building,44141240.79,32991714.72
+R013,2022,Improved Daily Living,Capacity Building,42153688.4,34622423.72
+R013,2022,Finding & Keeping a Job,Capacity Building,57958743.85,40297831.39
+R013,2022,Improved Health & Wellbeing,Capacity Building,79293359.43,67279890.68
+R013,2022,Assistive Technology,Capital,34291509.16,23932980.38
+R013,2022,Home Modifications,Capital,7610751.0,5185490.68
+R013,2023,Assistance with Daily Life,Core,62242993.16,48527850.93
+R013,2023,Social & Community Participation,Core,62696097.26,51211270.58
+R013,2023,Consumables,Core,13639004.89,11017088.97
+R013,2023,Transport,Core,47111403.62,36279694.67
+R013,2023,Support Coordination,Capacity Building,65004821.77,46262850.2
+R013,2023,Improved Daily Living,Capacity Building,46010028.16,36793243.02
+R013,2023,Finding & Keeping a Job,Capacity Building,58200088.55,38598040.33
+R013,2023,Improved Health & Wellbeing,Capacity Building,89165907.5,75750953.02
+R013,2023,Assistive Technology,Capital,47444254.25,34547641.16
+R013,2023,Home Modifications,Capital,7679275.51,5214186.01
+R013,2024,Assistance with Daily Life,Core,69525384.05,58374794.46
+R013,2024,Social & Community Participation,Core,75284205.48,61381957.62
+R013,2024,Consumables,Core,13960635.44,11213123.19
+R013,2024,Transport,Core,53191127.99,45097848.85
+R013,2024,Support Coordination,Capacity Building,47631404.03,34579591.54
+R013,2024,Improved Daily Living,Capacity Building,42921750.53,36523351.05
+R013,2024,Finding & Keeping a Job,Capacity Building,71176229.95,51802900.61
+R013,2024,Improved Health & Wellbeing,Capacity Building,98574957.53,85887466.62
+R013,2024,Assistive Technology,Capital,42715987.23,32942921.88
+R013,2024,Home Modifications,Capital,10503767.49,7322519.77
+R014,2020,Assistance with Daily Life,Core,61077446.7,53413076.68
+R014,2020,Social & Community Participation,Core,80987555.93,70537151.37
+R014,2020,Consumables,Core,17982354.62,15622824.68
+R014,2020,Transport,Core,54903447.63,48233814.12
+R014,2020,Support Coordination,Capacity Building,65334115.01,54446512.4
+R014,2020,Improved Daily Living,Capacity Building,42497353.64,37033752.84
+R014,2020,Finding & Keeping a Job,Capacity Building,82882675.48,64276988.92
+R014,2020,Improved Health & Wellbeing,Capacity Building,102260464.22,90147502.82
+R014,2020,Assistive Technology,Capital,47966416.84,37115080.32
+R014,2020,Home Modifications,Capital,9459712.41,6962646.63
+R014,2021,Assistance with Daily Life,Core,63712160.29,59295587.82
+R014,2021,Social & Community Participation,Core,73532439.23,65564839.96
+R014,2021,Consumables,Core,19029325.33,17722739.33
+R014,2021,Transport,Core,70599790.78,65427311.08
+R014,2021,Support Coordination,Capacity Building,80019182.07,63384894.48
+R014,2021,Improved Daily Living,Capacity Building,45771162.11,39419597.89
+R014,2021,Finding & Keeping a Job,Capacity Building,100762363.0,74810170.54
+R014,2021,Improved Health & Wellbeing,Capacity Building,113292242.05,100374461.81
+R014,2021,Assistive Technology,Capital,57273265.88,43189422.58
+R014,2021,Home Modifications,Capital,12650236.87,9252863.42
+R014,2022,Assistance with Daily Life,Core,74877170.57,69251234.38
+R014,2022,Social & Community Participation,Core,110062521.96,99482354.24
+R014,2022,Consumables,Core,22308551.63,20758116.73
+R014,2022,Transport,Core,61394388.12,53458228.61
+R014,2022,Support Coordination,Capacity Building,72018794.59,56704178.42
+R014,2022,Improved Daily Living,Capacity Building,61087341.87,53222952.35
+R014,2022,Finding & Keeping a Job,Capacity Building,87259784.92,66374765.66
+R014,2022,Improved Health & Wellbeing,Capacity Building,162643945.13,147977815.62
+R014,2022,Assistive Technology,Capital,71307442.08,54181817.84
+R014,2022,Home Modifications,Capital,16573550.22,11554759.57
+R014,2023,Assistance with Daily Life,Core,98891915.92,88291196.43
+R014,2023,Social & Community Participation,Core,99569641.72,87644613.3
+R014,2023,Consumables,Core,25949154.59,23292938.39
+R014,2023,Transport,Core,86736017.98,74907245.38
+R014,2023,Support Coordination,Capacity Building,107193112.93,81976099.49
+R014,2023,Improved Daily Living,Capacity Building,69039482.72,62889890.89
+R014,2023,Finding & Keeping a Job,Capacity Building,96129936.71,75109131.42
+R014,2023,Improved Health & Wellbeing,Capacity Building,167044966.83,141375176.51
+R014,2023,Assistive Technology,Capital,63339665.78,49805065.37
+R014,2023,Home Modifications,Capital,14241660.78,10630913.77
+R014,2024,Assistance with Daily Life,Core,113397966.71,104382350.22
+R014,2024,Social & Community Participation,Core,120203783.24,103228272.25
+R014,2024,Consumables,Core,26631684.05,22908956.17
+R014,2024,Transport,Core,73861327.96,63714893.44
+R014,2024,Support Coordination,Capacity Building,120394263.44,99527694.64
+R014,2024,Improved Daily Living,Capacity Building,62322321.28,54851415.62
+R014,2024,Finding & Keeping a Job,Capacity Building,152635541.89,116853345.17
+R014,2024,Improved Health & Wellbeing,Capacity Building,204080004.54,178612695.17
+R014,2024,Assistive Technology,Capital,80112734.67,63577592.84
+R014,2024,Home Modifications,Capital,16404284.52,11450733.01
+R015,2020,Assistance with Daily Life,Core,135678807.64,118078042.3
+R015,2020,Social & Community Participation,Core,125417869.57,115867808.4
+R015,2020,Consumables,Core,22580378.71,19471788.83
+R015,2020,Transport,Core,106655412.6,95776155.21
+R015,2020,Support Coordination,Capacity Building,115873650.46,96008166.76
+R015,2020,Improved Daily Living,Capacity Building,68280059.67,57311910.15
+R015,2020,Finding & Keeping a Job,Capacity Building,130925848.32,94086635.23
+R015,2020,Improved Health & Wellbeing,Capacity Building,219762000.6,190546208.87
+R015,2020,Assistive Technology,Capital,88706464.35,71253684.25
+R015,2020,Home Modifications,Capital,15551204.44,11203696.97
+R015,2021,Assistance with Daily Life,Core,148650489.25,137969925.89
+R015,2021,Social & Community Participation,Core,140997801.46,130155640.57
+R015,2021,Consumables,Core,33160263.05,29470467.28
+R015,2021,Transport,Core,119156593.6,112723588.91
+R015,2021,Support Coordination,Capacity Building,147425983.67,117824004.0
+R015,2021,Improved Daily Living,Capacity Building,98852688.02,91964836.73
+R015,2021,Finding & Keeping a Job,Capacity Building,130136706.46,95782278.58
+R015,2021,Improved Health & Wellbeing,Capacity Building,258423329.27,229894989.34
+R015,2021,Assistive Technology,Capital,77106311.21,63544711.54
+R015,2021,Home Modifications,Capital,22513372.19,16063166.72
+R015,2022,Assistance with Daily Life,Core,161369302.51,148372159.31
+R015,2022,Social & Community Participation,Core,201615357.93,180023610.77
+R015,2022,Consumables,Core,30552515.03,28063919.43
+R015,2022,Transport,Core,124866847.91,115728030.14
+R015,2022,Support Coordination,Capacity Building,145686121.31,121253128.38
+R015,2022,Improved Daily Living,Capacity Building,120734545.79,103779715.52
+R015,2022,Finding & Keeping a Job,Capacity Building,156544616.48,118653776.69
+R015,2022,Improved Health & Wellbeing,Capacity Building,293946206.33,266845888.54
+R015,2022,Assistive Technology,Capital,85773087.94,69352344.04
+R015,2022,Home Modifications,Capital,19975547.48,13464575.47
+R015,2023,Assistance with Daily Life,Core,152686257.27,146349775.07
+R015,2023,Social & Community Participation,Core,204301280.21,195873304.87
+R015,2023,Consumables,Core,39855843.62,35837840.37
+R015,2023,Transport,Core,127807450.43,116592853.04
+R015,2023,Support Coordination,Capacity Building,159550279.82,130968685.11
+R015,2023,Improved Daily Living,Capacity Building,118659953.41,106771273.34
+R015,2023,Finding & Keeping a Job,Capacity Building,216749835.72,173844873.11
+R015,2023,Improved Health & Wellbeing,Capacity Building,325141155.94,294033856.16
+R015,2023,Assistive Technology,Capital,111643511.48,94175618.39
+R015,2023,Home Modifications,Capital,30913354.83,21641691.38
+R015,2024,Assistance with Daily Life,Core,212989199.6,205520330.75
+R015,2024,Social & Community Participation,Core,239711662.59,226024974.12
+R015,2024,Consumables,Core,53913884.96,48028889.16
+R015,2024,Transport,Core,166209790.62,150806213.59
+R015,2024,Support Coordination,Capacity Building,182854908.76,152891317.11
+R015,2024,Improved Daily Living,Capacity Building,144358162.32,131848974.87
+R015,2024,Finding & Keeping a Job,Capacity Building,255649979.67,195280916.54
+R015,2024,Improved Health & Wellbeing,Capacity Building,325648974.84,307673860.91
+R015,2024,Assistive Technology,Capital,144433720.67,117317587.02
+R015,2024,Home Modifications,Capital,37046526.06,26659490.35
+R016,2020,Assistance with Daily Life,Core,48055240.34,42308982.16
+R016,2020,Social & Community Participation,Core,45801364.54,41320277.75
+R016,2020,Consumables,Core,10575201.82,8862123.22
+R016,2020,Transport,Core,36219328.12,32209660.93
+R016,2020,Support Coordination,Capacity Building,33334018.7,26093166.17
+R016,2020,Improved Daily Living,Capacity Building,34699747.7,29622860.71
+R016,2020,Finding & Keeping a Job,Capacity Building,41429023.9,31321428.93
+R016,2020,Improved Health & Wellbeing,Capacity Building,72520761.67,64859960.83
+R016,2020,Assistive Technology,Capital,27371751.02,20483317.16
+R016,2020,Home Modifications,Capital,8063062.07,5559694.64
+R016,2021,Assistance with Daily Life,Core,50655067.72,44620429.01
+R016,2021,Social & Community Participation,Core,50288873.93,45112210.25
+R016,2021,Consumables,Core,9173790.87,7869636.0
+R016,2021,Transport,Core,32936080.85,28530279.16
+R016,2021,Support Coordination,Capacity Building,45951044.36,37393062.35
+R016,2021,Improved Daily Living,Capacity Building,24476048.09,22068806.32
+R016,2021,Finding & Keeping a Job,Capacity Building,55585345.27,41701195.01
+R016,2021,Improved Health & Wellbeing,Capacity Building,69679653.78,59507461.3
+R016,2021,Assistive Technology,Capital,31686120.57,23810615.59
+R016,2021,Home Modifications,Capital,5879518.94,4056865.85
+R016,2022,Assistance with Daily Life,Core,46593036.56,41921416.0
+R016,2022,Social & Community Participation,Core,60070875.22,57260093.66
+R016,2022,Consumables,Core,11629173.29,10304768.64
+R016,2022,Transport,Core,35217359.39,31658892.02
+R016,2022,Support Coordination,Capacity Building,57460587.63,47791885.28
+R016,2022,Improved Daily Living,Capacity Building,33518854.36,30118554.23
+R016,2022,Finding & Keeping a Job,Capacity Building,66497290.71,52702285.37
+R016,2022,Improved Health & Wellbeing,Capacity Building,72840643.94,66592655.14
+R016,2022,Assistive Technology,Capital,33772496.52,27402906.39
+R016,2022,Home Modifications,Capital,6631584.41,4885717.75
+R016,2023,Assistance with Daily Life,Core,48584697.74,45822864.1
+R016,2023,Social & Community Participation,Core,64478869.07,56736347.98
+R016,2023,Consumables,Core,14510362.63,12980565.59
+R016,2023,Transport,Core,44642271.06,41804630.76
+R016,2023,Support Coordination,Capacity Building,66104245.09,56218246.14
+R016,2023,Improved Daily Living,Capacity Building,33082512.56,30300684.25
+R016,2023,Finding & Keeping a Job,Capacity Building,61192128.43,46247776.49
+R016,2023,Improved Health & Wellbeing,Capacity Building,96601026.48,83045321.51
+R016,2023,Assistive Technology,Capital,46518347.07,35322559.99
+R016,2023,Home Modifications,Capital,7408828.2,5330303.94
+R016,2024,Assistance with Daily Life,Core,55594010.07,48919578.1
+R016,2024,Social & Community Participation,Core,68081303.69,63404488.61
+R016,2024,Consumables,Core,13120763.05,11831098.11
+R016,2024,Transport,Core,51191610.07,48055613.36
+R016,2024,Support Coordination,Capacity Building,53641542.76,43581709.85
+R016,2024,Improved Daily Living,Capacity Building,39048009.51,34290456.4
+R016,2024,Finding & Keeping a Job,Capacity Building,85037158.78,68387922.79
+R016,2024,Improved Health & Wellbeing,Capacity Building,130359508.71,116729491.61
+R016,2024,Assistive Technology,Capital,38910447.53,30194610.82
+R016,2024,Home Modifications,Capital,9236673.53,6493329.2
+R017,2020,Assistance with Daily Life,Core,9066900.92,6796721.46
+R017,2020,Social & Community Participation,Core,12816296.22,9797892.6
+R017,2020,Consumables,Core,2673691.18,2047707.41
+R017,2020,Transport,Core,8585991.24,6360456.72
+R017,2020,Support Coordination,Capacity Building,9481414.47,6696317.75
+R017,2020,Improved Daily Living,Capacity Building,7602300.08,5849173.71
+R017,2020,Finding & Keeping a Job,Capacity Building,9704776.76,6220364.58
+R017,2020,Improved Health & Wellbeing,Capacity Building,17689619.45,13625579.32
+R017,2020,Assistive Technology,Capital,8103117.59,5456816.47
+R017,2020,Home Modifications,Capital,1466325.13,875304.33
+R017,2021,Assistance with Daily Life,Core,12297430.47,9849658.21
+R017,2021,Social & Community Participation,Core,11618845.63,8879443.51
+R017,2021,Consumables,Core,2391721.46,1902832.1
+R017,2021,Transport,Core,8371874.82,6791434.7
+R017,2021,Support Coordination,Capacity Building,11903406.35,8599833.65
+R017,2021,Improved Daily Living,Capacity Building,7983615.45,6338891.59
+R017,2021,Finding & Keeping a Job,Capacity Building,13043256.23,8857671.91
+R017,2021,Improved Health & Wellbeing,Capacity Building,20320728.1,15745991.66
+R017,2021,Assistive Technology,Capital,8665129.65,6152817.73
+R017,2021,Home Modifications,Capital,1610199.76,965521.72
+R017,2022,Assistance with Daily Life,Core,11138725.94,8105040.2
+R017,2022,Social & Community Participation,Core,13381057.54,9919075.45
+R017,2022,Consumables,Core,2819025.07,2145857.42
+R017,2022,Transport,Core,11506799.47,8352962.85
+R017,2022,Support Coordination,Capacity Building,12035595.18,7922814.62
+R017,2022,Improved Daily Living,Capacity Building,10162082.33,7748294.16
+R017,2022,Finding & Keeping a Job,Capacity Building,14139906.17,9176693.88
+R017,2022,Improved Health & Wellbeing,Capacity Building,24948157.69,19455647.75
+R017,2022,Assistive Technology,Capital,10703500.08,7164115.42
+R017,2022,Home Modifications,Capital,2479027.15,1472016.3
+R017,2023,Assistance with Daily Life,Core,14605548.32,11108861.49
+R017,2023,Social & Community Participation,Core,16872175.8,12910455.14
+R017,2023,Consumables,Core,3073948.73,2332260.8
+R017,2023,Transport,Core,11867814.99,9455939.75
+R017,2023,Support Coordination,Capacity Building,13508497.72,9473574.29
+R017,2023,Improved Daily Living,Capacity Building,10116299.16,7674230.95
+R017,2023,Finding & Keeping a Job,Capacity Building,20289373.66,13880889.67
+R017,2023,Improved Health & Wellbeing,Capacity Building,24035554.23,19556945.35
+R017,2023,Assistive Technology,Capital,12350723.94,8723496.57
+R017,2023,Home Modifications,Capital,2242593.04,1382693.43
+R017,2024,Assistance with Daily Life,Core,14383736.97,11267514.12
+R017,2024,Social & Community Participation,Core,21545458.84,17572564.86
+R017,2024,Consumables,Core,3259486.74,2596570.71
+R017,2024,Transport,Core,14013617.52,11815172.74
+R017,2024,Support Coordination,Capacity Building,14124362.11,9934435.89
+R017,2024,Improved Daily Living,Capacity Building,10399956.65,8376426.44
+R017,2024,Finding & Keeping a Job,Capacity Building,18116225.04,12792018.02
+R017,2024,Improved Health & Wellbeing,Capacity Building,25476775.87,19926519.78
+R017,2024,Assistive Technology,Capital,10270407.99,7616948.58
+R017,2024,Home Modifications,Capital,2835761.43,1916419.87
+R018,2020,Assistance with Daily Life,Core,10339445.92,8716504.95
+R018,2020,Social & Community Participation,Core,11166507.61,9192778.58
+R018,2020,Consumables,Core,2759056.5,2169559.61
+R018,2020,Transport,Core,7864112.46,6291242.21
+R018,2020,Support Coordination,Capacity Building,13512357.71,10095112.76
+R018,2020,Improved Daily Living,Capacity Building,8875914.57,7100308.83
+R018,2020,Finding & Keeping a Job,Capacity Building,17098496.35,11589566.39
+R018,2020,Improved Health & Wellbeing,Capacity Building,25020887.78,20007103.07
+R018,2020,Assistive Technology,Capital,8887383.52,6256346.45
+R018,2020,Home Modifications,Capital,2074442.23,1399289.28
+R018,2021,Assistance with Daily Life,Core,15521417.52,13682919.91
+R018,2021,Social & Community Participation,Core,13323200.98,11841418.43
+R018,2021,Consumables,Core,2843789.96,2529299.41
+R018,2021,Transport,Core,10156179.57,9004158.72
+R018,2021,Support Coordination,Capacity Building,13558901.82,9890979.47
+R018,2021,Improved Daily Living,Capacity Building,9907065.76,8445631.58
+R018,2021,Finding & Keeping a Job,Capacity Building,19016976.32,13831158.8
+R018,2021,Improved Health & Wellbeing,Capacity Building,21566129.47,19153532.58
+R018,2021,Assistive Technology,Capital,11926865.85,9187225.67
+R018,2021,Home Modifications,Capital,2025459.66,1330082.16
+R018,2022,Assistance with Daily Life,Core,15310608.88,13383100.86
+R018,2022,Social & Community Participation,Core,17748212.21,14917985.72
+R018,2022,Consumables,Core,3007417.12,2624843.76
+R018,2022,Transport,Core,11210521.24,9281243.69
+R018,2022,Support Coordination,Capacity Building,14773137.52,11572261.18
+R018,2022,Improved Daily Living,Capacity Building,10886712.09,9221764.51
+R018,2022,Finding & Keeping a Job,Capacity Building,20126492.11,15087754.9
+R018,2022,Improved Health & Wellbeing,Capacity Building,26644962.36,21906907.34
+R018,2022,Assistive Technology,Capital,12799656.61,9946494.94
+R018,2022,Home Modifications,Capital,2221651.41,1466730.42
+R018,2023,Assistance with Daily Life,Core,22046548.68,18875010.18
+R018,2023,Social & Community Participation,Core,23189332.77,20977294.77
+R018,2023,Consumables,Core,4068910.85,3524345.03
+R018,2023,Transport,Core,13460615.14,12117936.61
+R018,2023,Support Coordination,Capacity Building,17762335.09,14101620.85
+R018,2023,Improved Daily Living,Capacity Building,12032040.74,10585392.26
+R018,2023,Finding & Keeping a Job,Capacity Building,20688414.1,15601085.19
+R018,2023,Improved Health & Wellbeing,Capacity Building,30768521.72,27980663.98
+R018,2023,Assistive Technology,Capital,11419651.27,8479718.02
+R018,2023,Home Modifications,Capital,3782901.67,2583296.09
+R018,2024,Assistance with Daily Life,Core,21188590.79,19346772.35
+R018,2024,Social & Community Participation,Core,21068435.1,17588018.34
+R018,2024,Consumables,Core,5930153.41,5283836.6
+R018,2024,Transport,Core,15461537.45,13729719.49
+R018,2024,Support Coordination,Capacity Building,25013068.51,20154650.29
+R018,2024,Improved Daily Living,Capacity Building,18393432.72,15286507.35
+R018,2024,Finding & Keeping a Job,Capacity Building,24731266.58,18956632.36
+R018,2024,Improved Health & Wellbeing,Capacity Building,33883860.9,30457987.29
+R018,2024,Assistive Technology,Capital,16853916.13,12641503.44
+R018,2024,Home Modifications,Capital,2934514.04,1979152.8
+R019,2020,Assistance with Daily Life,Core,25596043.46,22899916.71
+R019,2020,Social & Community Participation,Core,29914644.45,25032544.7
+R019,2020,Consumables,Core,4950855.0,4195127.65
+R019,2020,Transport,Core,18901997.07,16995040.86
+R019,2020,Support Coordination,Capacity Building,23289097.15,17956141.33
+R019,2020,Improved Daily Living,Capacity Building,19742922.06,16333529.89
+R019,2020,Finding & Keeping a Job,Capacity Building,26030837.41,19531742.89
+R019,2020,Improved Health & Wellbeing,Capacity Building,40801307.39,35870821.72
+R019,2020,Assistive Technology,Capital,17817449.25,13167188.24
+R019,2020,Home Modifications,Capital,4630582.69,3049824.05
+R019,2021,Assistance with Daily Life,Core,27501062.59,25075184.74
+R019,2021,Social & Community Participation,Core,31611745.66,26520003.41
+R019,2021,Consumables,Core,6203386.32,5396607.8
+R019,2021,Transport,Core,20188631.56,16860136.73
+R019,2021,Support Coordination,Capacity Building,33178842.08,25910057.52
+R019,2021,Improved Daily Living,Capacity Building,18035312.34,15495684.29
+R019,2021,Finding & Keeping a Job,Capacity Building,39364757.64,30272350.89
+R019,2021,Improved Health & Wellbeing,Capacity Building,46206040.89,40846352.82
+R019,2021,Assistive Technology,Capital,22149815.83,17624556.18
+R019,2021,Home Modifications,Capital,4085226.15,2964084.41
+R019,2022,Assistance with Daily Life,Core,34149041.67,28892990.29
+R019,2022,Social & Community Participation,Core,32250160.47,27745525.04
+R019,2022,Consumables,Core,6113772.89,5497369.15
+R019,2022,Transport,Core,29921804.62,26822381.51
+R019,2022,Support Coordination,Capacity Building,36493753.64,27686280.52
+R019,2022,Improved Daily Living,Capacity Building,19258552.67,16115408.85
+R019,2022,Finding & Keeping a Job,Capacity Building,38417440.19,26810720.07
+R019,2022,Improved Health & Wellbeing,Capacity Building,48186444.82,43458397.79
+R019,2022,Assistive Technology,Capital,25040970.49,18664564.49
+R019,2022,Home Modifications,Capital,4811697.77,3344587.67
+R019,2023,Assistance with Daily Life,Core,42625547.73,39640545.17
+R019,2023,Social & Community Participation,Core,35218565.36,31688632.67
+R019,2023,Consumables,Core,7073594.33,6655240.41
+R019,2023,Transport,Core,33042027.23,30275672.41
+R019,2023,Support Coordination,Capacity Building,37600666.03,29272052.46
+R019,2023,Improved Daily Living,Capacity Building,24978837.48,21907037.94
+R019,2023,Finding & Keeping a Job,Capacity Building,38015584.13,29550600.4
+R019,2023,Improved Health & Wellbeing,Capacity Building,76953292.02,69484572.15
+R019,2023,Assistive Technology,Capital,27662681.07,22195364.9
+R019,2023,Home Modifications,Capital,6359675.52,4783232.03
+R019,2024,Assistance with Daily Life,Core,42382951.93,37923767.16
+R019,2024,Social & Community Participation,Core,46207350.23,42697143.58
+R019,2024,Consumables,Core,10629351.44,9244162.66
+R019,2024,Transport,Core,35982942.44,33088868.15
+R019,2024,Support Coordination,Capacity Building,43946575.29,35620562.32
+R019,2024,Improved Daily Living,Capacity Building,28909891.23,25907535.17
+R019,2024,Finding & Keeping a Job,Capacity Building,45584175.98,35393661.01
+R019,2024,Improved Health & Wellbeing,Capacity Building,73797105.08,65875627.56
+R019,2024,Assistive Technology,Capital,32198485.68,25726466.01
+R019,2024,Home Modifications,Capital,5863774.51,4196793.96
+R020,2020,Assistance with Daily Life,Core,105790140.2,98431259.18
+R020,2020,Social & Community Participation,Core,145322839.8,128968088.42
+R020,2020,Consumables,Core,23696279.18,22025129.23
+R020,2020,Transport,Core,79074188.84,72383316.54
+R020,2020,Support Coordination,Capacity Building,103341520.18,87125175.68
+R020,2020,Improved Daily Living,Capacity Building,97127362.99,87245499.94
+R020,2020,Finding & Keeping a Job,Capacity Building,133394852.14,102818181.99
+R020,2020,Improved Health & Wellbeing,Capacity Building,228617488.4,219543672.03
+R020,2020,Assistive Technology,Capital,78052666.36,61882603.15
+R020,2020,Home Modifications,Capital,16802372.34,12736560.26
+R020,2021,Assistance with Daily Life,Core,153118779.32,146873340.6
+R020,2021,Social & Community Participation,Core,142172836.12,124159303.34
+R020,2021,Consumables,Core,23516131.43,20729837.15
+R020,2021,Transport,Core,90667313.79,83709461.12
+R020,2021,Support Coordination,Capacity Building,117425302.98,97090056.93
+R020,2021,Improved Daily Living,Capacity Building,102359403.49,90550577.42
+R020,2021,Finding & Keeping a Job,Capacity Building,157222469.68,121837692.84
+R020,2021,Improved Health & Wellbeing,Capacity Building,209805828.36,199123721.34
+R020,2021,Assistive Technology,Capital,97922906.68,78135094.15
+R020,2021,Home Modifications,Capital,21693867.41,16457271.54
+R020,2022,Assistance with Daily Life,Core,136786683.99,133094881.01
+R020,2022,Social & Community Participation,Core,181094432.55,177472543.9
+R020,2022,Consumables,Core,31880382.57,30746879.69
+R020,2022,Transport,Core,123290757.42,118881597.89
+R020,2022,Support Coordination,Capacity Building,121992048.71,100426347.19
+R020,2022,Improved Daily Living,Capacity Building,86177776.54,80129073.51
+R020,2022,Finding & Keeping a Job,Capacity Building,164193733.98,136577354.83
+R020,2022,Improved Health & Wellbeing,Capacity Building,274611914.95,255489981.32
+R020,2022,Assistive Technology,Capital,114045591.87,90015270.56
+R020,2022,Home Modifications,Capital,20445540.83,16081008.98
+R020,2023,Assistance with Daily Life,Core,154058770.08,137206309.64
+R020,2023,Social & Community Participation,Core,147905422.9,135384461.36
+R020,2023,Consumables,Core,32764060.98,30300109.9
+R020,2023,Transport,Core,136873638.29,133914405.34
+R020,2023,Support Coordination,Capacity Building,186073203.83,160596358.75
+R020,2023,Improved Daily Living,Capacity Building,99035395.69,90225956.49
+R020,2023,Finding & Keeping a Job,Capacity Building,193376894.21,152476756.85
+R020,2023,Improved Health & Wellbeing,Capacity Building,334368815.95,315544824.89
+R020,2023,Assistive Technology,Capital,111829886.61,91937994.66
+R020,2023,Home Modifications,Capital,29363051.08,21310761.98
+R020,2024,Assistance with Daily Life,Core,200499449.13,196489460.14
+R020,2024,Social & Community Participation,Core,225474580.24,220965088.63
+R020,2024,Consumables,Core,34616839.35,33924502.56
+R020,2024,Transport,Core,122330644.26,111023343.26
+R020,2024,Support Coordination,Capacity Building,199131003.62,175181495.51
+R020,2024,Improved Daily Living,Capacity Building,138531948.53,135761309.56
+R020,2024,Finding & Keeping a Job,Capacity Building,238138070.04,189020418.78
+R020,2024,Improved Health & Wellbeing,Capacity Building,365956691.16,350699450.21
+R020,2024,Assistive Technology,Capital,119118960.39,97165838.99
+R020,2024,Home Modifications,Capital,31775533.49,23927785.14
+R021,2020,Assistance with Daily Life,Core,61676166.09,56629425.78
+R021,2020,Social & Community Participation,Core,64503826.68,60225360.09
+R021,2020,Consumables,Core,16669275.65,15293829.15
+R021,2020,Transport,Core,62630068.43,56181498.12
+R021,2020,Support Coordination,Capacity Building,77731820.9,62362228.48
+R021,2020,Improved Daily Living,Capacity Building,56811721.44,50439939.32
+R021,2020,Finding & Keeping a Job,Capacity Building,84243360.67,66986133.15
+R021,2020,Improved Health & Wellbeing,Capacity Building,140733972.56,130887740.92
+R021,2020,Assistive Technology,Capital,44957533.35,35344446.15
+R021,2020,Home Modifications,Capital,9995474.44,7323175.7
+R021,2021,Assistance with Daily Life,Core,92431887.92,88102672.34
+R021,2021,Social & Community Participation,Core,78637372.13,75568480.58
+R021,2021,Consumables,Core,19790698.75,18842002.21
+R021,2021,Transport,Core,63301637.43,60414589.61
+R021,2021,Support Coordination,Capacity Building,85560284.72,71943212.03
+R021,2021,Improved Daily Living,Capacity Building,55633912.36,49496704.76
+R021,2021,Finding & Keeping a Job,Capacity Building,101944392.14,76922805.86
+R021,2021,Improved Health & Wellbeing,Capacity Building,117437701.8,105184535.5
+R021,2021,Assistive Technology,Capital,63728901.9,53072353.33
+R021,2021,Home Modifications,Capital,9796090.62,7057256.91
+R021,2022,Assistance with Daily Life,Core,91494657.51,88405250.09
+R021,2022,Social & Community Participation,Core,96339997.57,91211655.56
+R021,2022,Consumables,Core,19176648.21,17737304.62
+R021,2022,Transport,Core,74218924.69,68818020.0
+R021,2022,Support Coordination,Capacity Building,110050426.3,92890309.31
+R021,2022,Improved Daily Living,Capacity Building,72278674.17,70279754.43
+R021,2022,Finding & Keeping a Job,Capacity Building,100878051.83,77218128.93
+R021,2022,Improved Health & Wellbeing,Capacity Building,135588088.31,132876326.54
+R021,2022,Assistive Technology,Capital,57905781.98,49661972.75
+R021,2022,Home Modifications,Capital,13155971.52,10237545.32
+R021,2023,Assistance with Daily Life,Core,110467083.35,108257741.68
+R021,2023,Social & Community Participation,Core,110387012.16,105551840.44
+R021,2023,Consumables,Core,21736356.29,20932733.98
+R021,2023,Transport,Core,89816317.28,84444840.91
+R021,2023,Support Coordination,Capacity Building,99158378.47,88855353.85
+R021,2023,Improved Daily Living,Capacity Building,65752615.79,59674221.16
+R021,2023,Finding & Keeping a Job,Capacity Building,113015775.41,91259845.49
+R021,2023,Improved Health & Wellbeing,Capacity Building,161783150.09,147369789.85
+R021,2023,Assistive Technology,Capital,70674189.04,56517253.36
+R021,2023,Home Modifications,Capital,14300509.96,10860543.83
+R021,2024,Assistance with Daily Life,Core,125554413.77,119129259.1
+R021,2024,Social & Community Participation,Core,120821185.66,116670746.59
+R021,2024,Consumables,Core,24445855.55,23956938.44
+R021,2024,Transport,Core,70727697.18,69313143.23
+R021,2024,Support Coordination,Capacity Building,98889531.35,82940398.57
+R021,2024,Improved Daily Living,Capacity Building,76576731.67,73395445.96
+R021,2024,Finding & Keeping a Job,Capacity Building,122772691.42,101059429.39
+R021,2024,Improved Health & Wellbeing,Capacity Building,204625215.43,198863991.76
+R021,2024,Assistive Technology,Capital,81521476.43,71149647.86
+R021,2024,Home Modifications,Capital,20388924.23,15393177.47
+R022,2020,Assistance with Daily Life,Core,50704097.19,41405826.21
+R022,2020,Social & Community Participation,Core,50663654.67,40775139.87
+R022,2020,Consumables,Core,9783753.82,8336175.64
+R022,2020,Transport,Core,36164329.5,28891807.24
+R022,2020,Support Coordination,Capacity Building,37887027.83,28407068.62
+R022,2020,Improved Daily Living,Capacity Building,26297749.15,22140682.53
+R022,2020,Finding & Keeping a Job,Capacity Building,54592100.32,38890701.95
+R022,2020,Improved Health & Wellbeing,Capacity Building,86056671.53,68129792.64
+R022,2020,Assistive Technology,Capital,29755220.86,21941640.53
+R022,2020,Home Modifications,Capital,5622370.31,3490007.94
+R022,2021,Assistance with Daily Life,Core,43578255.15,37731285.12
+R022,2021,Social & Community Participation,Core,52115229.1,44263083.73
+R022,2021,Consumables,Core,11707439.84,9888019.65
+R022,2021,Transport,Core,43117243.31,34597755.61
+R022,2021,Support Coordination,Capacity Building,42554115.99,33003534.75
+R022,2021,Improved Daily Living,Capacity Building,33129848.93,26725542.1
+R022,2021,Finding & Keeping a Job,Capacity Building,49161668.82,35380815.0
+R022,2021,Improved Health & Wellbeing,Capacity Building,84612868.29,73439843.54
+R022,2021,Assistive Technology,Capital,38593659.28,29233903.66
+R022,2021,Home Modifications,Capital,8054821.18,5598704.63
+R022,2022,Assistance with Daily Life,Core,48443506.42,39250983.7
+R022,2022,Social & Community Participation,Core,68500130.84,59623218.08
+R022,2022,Consumables,Core,11588269.81,9447732.02
+R022,2022,Transport,Core,48723875.11,39653222.79
+R022,2022,Support Coordination,Capacity Building,57311920.28,41203252.62
+R022,2022,Improved Daily Living,Capacity Building,43207359.83,34192952.31
+R022,2022,Finding & Keeping a Job,Capacity Building,64313661.34,43473097.85
+R022,2022,Improved Health & Wellbeing,Capacity Building,72273620.91,58540792.33
+R022,2022,Assistive Technology,Capital,41244990.02,30623256.48
+R022,2022,Home Modifications,Capital,6948297.02,4758392.35
+R022,2023,Assistance with Daily Life,Core,62249442.65,52502999.67
+R022,2023,Social & Community Participation,Core,67088844.9,54848233.63
+R022,2023,Consumables,Core,13294311.88,11429256.08
+R022,2023,Transport,Core,39978523.22,32965397.05
+R022,2023,Support Coordination,Capacity Building,54451125.66,39516755.2
+R022,2023,Improved Daily Living,Capacity Building,43705514.99,36209692.91
+R022,2023,Finding & Keeping a Job,Capacity Building,60402529.26,41129002.05
+R022,2023,Improved Health & Wellbeing,Capacity Building,94252901.82,82129577.8
+R022,2023,Assistive Technology,Capital,39033224.74,29427959.63
+R022,2023,Home Modifications,Capital,9042048.83,6045121.51
+R022,2024,Assistance with Daily Life,Core,67136432.38,54582326.4
+R022,2024,Social & Community Participation,Core,71588792.33,59954817.05
+R022,2024,Consumables,Core,11568164.66,9223368.4
+R022,2024,Transport,Core,44622984.97,38423085.75
+R022,2024,Support Coordination,Capacity Building,67205287.45,52529156.0
+R022,2024,Improved Daily Living,Capacity Building,45541140.88,37164919.69
+R022,2024,Finding & Keeping a Job,Capacity Building,56279039.96,40551684.45
+R022,2024,Improved Health & Wellbeing,Capacity Building,117159173.99,101800933.47
+R022,2024,Assistive Technology,Capital,48908760.36,35693080.03
+R022,2024,Home Modifications,Capital,9115699.27,6100946.65
+R023,2020,Assistance with Daily Life,Core,16848183.81,10605363.61
+R023,2020,Social & Community Participation,Core,18458043.72,11100704.43
+R023,2020,Consumables,Core,4465232.29,2734583.45
+R023,2020,Transport,Core,15857308.32,9682012.39
+R023,2020,Support Coordination,Capacity Building,16160727.5,9187786.09
+R023,2020,Improved Daily Living,Capacity Building,10869353.55,6509633.89
+R023,2020,Finding & Keeping a Job,Capacity Building,22201852.23,11966205.54
+R023,2020,Improved Health & Wellbeing,Capacity Building,29606204.1,18979429.0
+R023,2020,Assistive Technology,Capital,12554014.19,6530964.58
+R023,2020,Home Modifications,Capital,2806943.92,1443901.88
+R023,2021,Assistance with Daily Life,Core,20885959.3,13399660.93
+R023,2021,Social & Community Participation,Core,23797578.06,14910266.0
+R023,2021,Consumables,Core,5155423.65,3030542.84
+R023,2021,Transport,Core,13599704.72,8210044.88
+R023,2021,Support Coordination,Capacity Building,20899042.48,12044681.63
+R023,2021,Improved Daily Living,Capacity Building,16170244.46,10075416.33
+R023,2021,Finding & Keeping a Job,Capacity Building,23187390.19,12185749.31
+R023,2021,Improved Health & Wellbeing,Capacity Building,35172124.38,22369404.68
+R023,2021,Assistive Technology,Capital,14273445.52,7636526.95
+R023,2021,Home Modifications,Capital,2607542.06,1232548.45
+R023,2022,Assistance with Daily Life,Core,26810868.14,17877035.86
+R023,2022,Social & Community Participation,Core,23915352.93,15154736.5
+R023,2022,Consumables,Core,4500176.17,2957461.66
+R023,2022,Transport,Core,19111934.04,12167687.89
+R023,2022,Support Coordination,Capacity Building,27021874.96,16276285.88
+R023,2022,Improved Daily Living,Capacity Building,14376229.31,9244881.12
+R023,2022,Finding & Keeping a Job,Capacity Building,29865991.01,16827042.11
+R023,2022,Improved Health & Wellbeing,Capacity Building,33080163.88,21445346.81
+R023,2022,Assistive Technology,Capital,16254380.35,8929779.96
+R023,2022,Home Modifications,Capital,4104366.81,2007773.2
+R023,2023,Assistance with Daily Life,Core,24073542.46,16127357.68
+R023,2023,Social & Community Participation,Core,31414573.9,20166123.09
+R023,2023,Consumables,Core,6380639.18,3984105.1
+R023,2023,Transport,Core,20703964.38,12859045.62
+R023,2023,Support Coordination,Capacity Building,21361731.48,12187320.94
+R023,2023,Improved Daily Living,Capacity Building,20793616.48,13713474.25
+R023,2023,Finding & Keeping a Job,Capacity Building,32399447.94,18448035.03
+R023,2023,Improved Health & Wellbeing,Capacity Building,48606115.51,31954161.49
+R023,2023,Assistive Technology,Capital,14797233.57,8715348.5
+R023,2023,Home Modifications,Capital,4823111.83,2352190.79
+R023,2024,Assistance with Daily Life,Core,30079653.65,18822095.22
+R023,2024,Social & Community Participation,Core,39178690.28,26605827.6
+R023,2024,Consumables,Core,8316852.11,5631432.08
+R023,2024,Transport,Core,24368863.32,16319154.65
+R023,2024,Support Coordination,Capacity Building,30151439.06,18382490.46
+R023,2024,Improved Daily Living,Capacity Building,25219350.68,15636257.63
+R023,2024,Finding & Keeping a Job,Capacity Building,37529417.41,19949672.89
+R023,2024,Improved Health & Wellbeing,Capacity Building,41967329.74,28456978.23
+R023,2024,Assistive Technology,Capital,19746686.85,10851831.11
+R023,2024,Home Modifications,Capital,5175870.38,2713352.22
+R024,2020,Assistance with Daily Life,Core,21107329.94,13710452.38
+R024,2020,Social & Community Participation,Core,20897452.87,13665624.95
+R024,2020,Consumables,Core,4334278.8,2791116.75
+R024,2020,Transport,Core,14640124.01,9802141.64
+R024,2020,Support Coordination,Capacity Building,14786093.43,9154952.88
+R024,2020,Improved Daily Living,Capacity Building,10736029.93,7171319.12
+R024,2020,Finding & Keeping a Job,Capacity Building,27094707.71,15520954.5
+R024,2020,Improved Health & Wellbeing,Capacity Building,34671997.68,23289290.04
+R024,2020,Assistive Technology,Capital,13115690.86,7801514.73
+R024,2020,Home Modifications,Capital,2852072.38,1583001.21
+R024,2021,Assistance with Daily Life,Core,21184635.91,14400809.37
+R024,2021,Social & Community Participation,Core,22798753.44,15731216.72
+R024,2021,Consumables,Core,3940196.81,2784120.75
+R024,2021,Transport,Core,14579741.45,10368721.05
+R024,2021,Support Coordination,Capacity Building,17927652.86,11425583.43
+R024,2021,Improved Daily Living,Capacity Building,14929943.28,9643587.44
+R024,2021,Finding & Keeping a Job,Capacity Building,25157774.72,13854905.38
+R024,2021,Improved Health & Wellbeing,Capacity Building,34631217.25,23004520.44
+R024,2021,Assistive Technology,Capital,16120026.89,9217932.26
+R024,2021,Home Modifications,Capital,2538797.67,1379871.48
+R024,2022,Assistance with Daily Life,Core,24901591.3,17647246.8
+R024,2022,Social & Community Participation,Core,19945305.6,14581924.13
+R024,2022,Consumables,Core,5134704.33,3606342.26
+R024,2022,Transport,Core,20267475.81,14645040.1
+R024,2022,Support Coordination,Capacity Building,18718313.03,11917843.22
+R024,2022,Improved Daily Living,Capacity Building,17764348.78,12835640.86
+R024,2022,Finding & Keeping a Job,Capacity Building,28275940.31,16934514.55
+R024,2022,Improved Health & Wellbeing,Capacity Building,38929393.62,27345029.95
+R024,2022,Assistive Technology,Capital,13101961.88,8443492.7
+R024,2022,Home Modifications,Capital,3820754.47,2081848.44
+R024,2023,Assistance with Daily Life,Core,24138459.39,15941474.88
+R024,2023,Social & Community Participation,Core,24953303.84,16927681.96
+R024,2023,Consumables,Core,6205939.71,4433639.27
+R024,2023,Transport,Core,19145331.23,13129236.98
+R024,2023,Support Coordination,Capacity Building,22563404.62,13749294.32
+R024,2023,Improved Daily Living,Capacity Building,14581556.96,10084696.66
+R024,2023,Finding & Keeping a Job,Capacity Building,29935470.57,18360518.48
+R024,2023,Improved Health & Wellbeing,Capacity Building,42619785.56,30294732.75
+R024,2023,Assistive Technology,Capital,16150204.9,9363677.18
+R024,2023,Home Modifications,Capital,4166055.52,2253917.04
+R024,2024,Assistance with Daily Life,Core,28580061.14,18841256.17
+R024,2024,Social & Community Participation,Core,28436754.06,20165351.45
+R024,2024,Consumables,Core,5966300.46,3994592.16
+R024,2024,Transport,Core,16515039.84,11844127.71
+R024,2024,Support Coordination,Capacity Building,27002637.65,16208580.74
+R024,2024,Improved Daily Living,Capacity Building,15152682.54,10533009.72
+R024,2024,Finding & Keeping a Job,Capacity Building,28604636.64,16135133.14
+R024,2024,Improved Health & Wellbeing,Capacity Building,37311058.37,26426357.11
+R024,2024,Assistive Technology,Capital,18177796.22,10793543.25
+R024,2024,Home Modifications,Capital,3637160.5,2057858.27
+R025,2020,Assistance with Daily Life,Core,83908919.73,76425560.1
+R025,2020,Social & Community Participation,Core,110701220.46,105165958.75
+R025,2020,Consumables,Core,17569705.39,15275649.36
+R025,2020,Transport,Core,61187362.0,53538771.05
+R025,2020,Support Coordination,Capacity Building,105860648.48,88359932.91
+R025,2020,Improved Daily Living,Capacity Building,52103610.05,48255627.89
+R025,2020,Finding & Keeping a Job,Capacity Building,102133978.48,78657676.33
+R025,2020,Improved Health & Wellbeing,Capacity Building,161552552.45,147526518.7
+R025,2020,Assistive Technology,Capital,61872655.27,51041713.82
+R025,2020,Home Modifications,Capital,13176784.19,9793431.96
+R025,2021,Assistance with Daily Life,Core,135229030.5,121011127.15
+R025,2021,Social & Community Participation,Core,103076698.37,98475901.59
+R025,2021,Consumables,Core,24973693.62,24302989.98
+R025,2021,Transport,Core,72969879.49,69395812.0
+R025,2021,Support Coordination,Capacity Building,119351480.52,102298126.52
+R025,2021,Improved Daily Living,Capacity Building,89157366.97,80670526.14
+R025,2021,Finding & Keeping a Job,Capacity Building,122139912.24,98545955.27
+R025,2021,Improved Health & Wellbeing,Capacity Building,168561346.63,152916866.34
+R025,2021,Assistive Technology,Capital,64636399.93,54891818.83
+R025,2021,Home Modifications,Capital,20249186.94,14952740.88
+R025,2022,Assistance with Daily Life,Core,119704448.43,108985734.51
+R025,2022,Social & Community Participation,Core,120980983.49,116100100.69
+R025,2022,Consumables,Core,22077059.32,21635518.14
+R025,2022,Transport,Core,89139383.2,86317224.16
+R025,2022,Support Coordination,Capacity Building,104386011.73,90349023.01
+R025,2022,Improved Daily Living,Capacity Building,82764875.74,81109578.22
+R025,2022,Finding & Keeping a Job,Capacity Building,135698259.26,108746436.99
+R025,2022,Improved Health & Wellbeing,Capacity Building,191362774.92,174205017.65
+R025,2022,Assistive Technology,Capital,67530472.66,57845295.69
+R025,2022,Home Modifications,Capital,18509929.33,14051681.7
+R025,2023,Assistance with Daily Life,Core,118208166.4,110221063.38
+R025,2023,Social & Community Participation,Core,145144526.49,140138587.96
+R025,2023,Consumables,Core,24989350.5,24489563.49
+R025,2023,Transport,Core,98297249.39,96331304.4
+R025,2023,Support Coordination,Capacity Building,131615950.48,119562566.18
+R025,2023,Improved Daily Living,Capacity Building,96307460.3,89795530.99
+R025,2023,Finding & Keeping a Job,Capacity Building,137217610.3,110332854.62
+R025,2023,Improved Health & Wellbeing,Capacity Building,220460226.68,210761287.88
+R025,2023,Assistive Technology,Capital,75669855.36,61161210.02
+R025,2023,Home Modifications,Capital,22240840.5,17616187.11
+R025,2024,Assistance with Daily Life,Core,154545394.99,151454487.09
+R025,2024,Social & Community Participation,Core,144413104.39,138234437.81
+R025,2024,Consumables,Core,32760881.56,32105663.93
+R025,2024,Transport,Core,113027327.05,110761196.3
+R025,2024,Support Coordination,Capacity Building,128243232.71,114148838.37
+R025,2024,Improved Daily Living,Capacity Building,82746232.47,80624905.0
+R025,2024,Finding & Keeping a Job,Capacity Building,158810501.42,131226321.67
+R025,2024,Improved Health & Wellbeing,Capacity Building,242085747.02,219988962.35
+R025,2024,Assistive Technology,Capital,95058914.32,77276677.25
+R025,2024,Home Modifications,Capital,23448474.01,17878011.42
+R026,2020,Assistance with Daily Life,Core,74194986.28,63650958.31
+R026,2020,Social & Community Participation,Core,83027301.1,69711485.11
+R026,2020,Consumables,Core,16550144.67,13242756.6
+R026,2020,Transport,Core,50493744.28,42199958.23
+R026,2020,Support Coordination,Capacity Building,72133029.35,55684917.73
+R026,2020,Improved Daily Living,Capacity Building,48890525.06,39574778.97
+R026,2020,Finding & Keeping a Job,Capacity Building,98085029.18,72657273.45
+R026,2020,Improved Health & Wellbeing,Capacity Building,124312554.42,99542873.65
+R026,2020,Assistive Technology,Capital,47571512.68,35230127.96
+R026,2020,Home Modifications,Capital,10825441.81,7066082.88
+R026,2021,Assistance with Daily Life,Core,64630194.24,54174322.31
+R026,2021,Social & Community Participation,Core,95410923.17,79275932.68
+R026,2021,Consumables,Core,19667936.34,17475871.57
+R026,2021,Transport,Core,61928340.11,55383489.9
+R026,2021,Support Coordination,Capacity Building,81326826.53,62630821.81
+R026,2021,Improved Daily Living,Capacity Building,51515248.52,45488415.88
+R026,2021,Finding & Keeping a Job,Capacity Building,105378974.3,78967658.92
+R026,2021,Improved Health & Wellbeing,Capacity Building,109181105.16,97691573.06
+R026,2021,Assistive Technology,Capital,54978419.45,42432796.81
+R026,2021,Home Modifications,Capital,11326472.6,7561654.28
+R026,2022,Assistance with Daily Life,Core,116417445.58,104939926.79
+R026,2022,Social & Community Participation,Core,85008306.71,72652146.69
+R026,2022,Consumables,Core,24969988.21,21851848.43
+R026,2022,Transport,Core,60117417.64,50563253.19
+R026,2022,Support Coordination,Capacity Building,84029681.06,64602090.53
+R026,2022,Improved Daily Living,Capacity Building,60591018.09,54184029.23
+R026,2022,Finding & Keeping a Job,Capacity Building,130725474.6,99695796.95
+R026,2022,Improved Health & Wellbeing,Capacity Building,144154058.16,131015316.48
+R026,2022,Assistive Technology,Capital,74250546.02,55423222.05
+R026,2022,Home Modifications,Capital,14324174.96,10144453.02
+R026,2023,Assistance with Daily Life,Core,83076888.8,70530337.39
+R026,2023,Social & Community Participation,Core,84966775.77,76667187.4
+R026,2023,Consumables,Core,25867968.61,21800274.37
+R026,2023,Transport,Core,62465322.33,56059086.81
+R026,2023,Support Coordination,Capacity Building,107125421.92,81811938.12
+R026,2023,Improved Daily Living,Capacity Building,55747376.69,49539122.62
+R026,2023,Finding & Keeping a Job,Capacity Building,133428148.0,102869773.74
+R026,2023,Improved Health & Wellbeing,Capacity Building,189748427.39,173708938.58
+R026,2023,Assistive Technology,Capital,55132109.32,41885250.85
+R026,2023,Home Modifications,Capital,16149436.92,10868967.15
+R026,2024,Assistance with Daily Life,Core,111940076.04,95363402.73
+R026,2024,Social & Community Participation,Core,122913610.61,107865733.32
+R026,2024,Consumables,Core,23843499.3,21947237.27
+R026,2024,Transport,Core,106991852.98,98316414.72
+R026,2024,Support Coordination,Capacity Building,110836969.05,92767696.87
+R026,2024,Improved Daily Living,Capacity Building,98775590.22,84091751.45
+R026,2024,Finding & Keeping a Job,Capacity Building,158071005.1,121620113.37
+R026,2024,Improved Health & Wellbeing,Capacity Building,173129383.04,158523245.99
+R026,2024,Assistive Technology,Capital,78107400.14,60168602.14
+R026,2024,Home Modifications,Capital,22036785.8,15529518.77
+R027,2020,Assistance with Daily Life,Core,6448639.53,3828845.95
+R027,2020,Social & Community Participation,Core,5892706.41,3704918.77
+R027,2020,Consumables,Core,1596710.56,954505.34
+R027,2020,Transport,Core,5553608.46,3462991.02
+R027,2020,Support Coordination,Capacity Building,6223233.97,3508943.61
+R027,2020,Improved Daily Living,Capacity Building,4967953.74,2845692.26
+R027,2020,Finding & Keeping a Job,Capacity Building,7128689.68,3683629.76
+R027,2020,Improved Health & Wellbeing,Capacity Building,8899416.05,5370380.72
+R027,2020,Assistive Technology,Capital,4917981.63,2653280.14
+R027,2020,Home Modifications,Capital,786649.29,385256.36
+R027,2021,Assistance with Daily Life,Core,6345891.33,4168712.91
+R027,2021,Social & Community Participation,Core,6424855.17,4002282.05
+R027,2021,Consumables,Core,1203271.95,747396.57
+R027,2021,Transport,Core,4295747.3,2634494.19
+R027,2021,Support Coordination,Capacity Building,7364307.75,4062357.75
+R027,2021,Improved Daily Living,Capacity Building,5395455.49,3508771.27
+R027,2021,Finding & Keeping a Job,Capacity Building,9213106.0,5113994.76
+R027,2021,Improved Health & Wellbeing,Capacity Building,9229344.73,5968184.22
+R027,2021,Assistive Technology,Capital,4402484.37,2569161.68
+R027,2021,Home Modifications,Capital,908074.38,450613.71
+R027,2022,Assistance with Daily Life,Core,7520314.62,5085213.27
+R027,2022,Social & Community Participation,Core,7086726.08,4560416.66
+R027,2022,Consumables,Core,1447252.55,914594.12
+R027,2022,Transport,Core,6539796.11,4169719.45
+R027,2022,Support Coordination,Capacity Building,5447208.41,3020854.08
+R027,2022,Improved Daily Living,Capacity Building,4069533.81,2700852.2
+R027,2022,Finding & Keeping a Job,Capacity Building,9295014.81,5211756.34
+R027,2022,Improved Health & Wellbeing,Capacity Building,12811852.8,8240601.23
+R027,2022,Assistive Technology,Capital,5553569.34,3046657.79
+R027,2022,Home Modifications,Capital,938957.52,486759.17
+R027,2023,Assistance with Daily Life,Core,8704236.45,5861682.21
+R027,2023,Social & Community Participation,Core,8995223.76,5800611.92
+R027,2023,Consumables,Core,1437606.94,967091.07
+R027,2023,Transport,Core,6370194.04,4080646.24
+R027,2023,Support Coordination,Capacity Building,7488607.01,4225050.21
+R027,2023,Improved Daily Living,Capacity Building,5360749.61,3646538.36
+R027,2023,Finding & Keeping a Job,Capacity Building,10241626.05,5497319.6
+R027,2023,Improved Health & Wellbeing,Capacity Building,12223404.64,7667045.39
+R027,2023,Assistive Technology,Capital,5584831.77,3225235.67
+R027,2023,Home Modifications,Capital,1107032.73,572456.49
+R027,2024,Assistance with Daily Life,Core,11401085.0,7056572.69
+R027,2024,Social & Community Participation,Core,9962740.31,6576169.21
+R027,2024,Consumables,Core,1937534.29,1219259.03
+R027,2024,Transport,Core,7165048.52,4751580.95
+R027,2024,Support Coordination,Capacity Building,9285641.29,5430886.99
+R027,2024,Improved Daily Living,Capacity Building,6683973.89,4393905.78
+R027,2024,Finding & Keeping a Job,Capacity Building,14066294.67,7629755.77
+R027,2024,Improved Health & Wellbeing,Capacity Building,14477556.47,9742232.24
+R027,2024,Assistive Technology,Capital,7869609.68,4400989.13
+R027,2024,Home Modifications,Capital,1915991.72,962611.62
+R028,2020,Assistance with Daily Life,Core,31304673.75,25381882.7
+R028,2020,Social & Community Participation,Core,33370409.53,26853373.57
+R028,2020,Consumables,Core,7844687.33,6095153.27
+R028,2020,Transport,Core,26826686.54,21310742.1
+R028,2020,Support Coordination,Capacity Building,34056485.02,23609488.67
+R028,2020,Improved Daily Living,Capacity Building,29602952.09,23827116.77
+R028,2020,Finding & Keeping a Job,Capacity Building,42200444.41,27484076.44
+R028,2020,Improved Health & Wellbeing,Capacity Building,49156998.19,38344309.72
+R028,2020,Assistive Technology,Capital,27548467.97,19808451.65
+R028,2020,Home Modifications,Capital,4696466.74,2847979.31
+R028,2021,Assistance with Daily Life,Core,32794802.84,26446481.98
+R028,2021,Social & Community Participation,Core,35558916.64,28294295.86
+R028,2021,Consumables,Core,7460146.81,6040814.8
+R028,2021,Transport,Core,25368884.77,21057235.76
+R028,2021,Support Coordination,Capacity Building,32694366.85,23569518.4
+R028,2021,Improved Daily Living,Capacity Building,29399750.02,23998223.41
+R028,2021,Finding & Keeping a Job,Capacity Building,52204551.75,36011645.03
+R028,2021,Improved Health & Wellbeing,Capacity Building,56363871.04,46689764.26
+R028,2021,Assistive Technology,Capital,22007162.96,15269501.99
+R028,2021,Home Modifications,Capital,6650631.17,4489389.11
+R028,2022,Assistance with Daily Life,Core,30698268.24,24558839.25
+R028,2022,Social & Community Participation,Core,45373626.37,35424789.22
+R028,2022,Consumables,Core,9438044.65,7820070.66
+R028,2022,Transport,Core,32211574.43,25753804.22
+R028,2022,Support Coordination,Capacity Building,40164368.97,27946721.51
+R028,2022,Improved Daily Living,Capacity Building,25882810.79,20038324.86
+R028,2022,Finding & Keeping a Job,Capacity Building,49148527.67,33138978.92
+R028,2022,Improved Health & Wellbeing,Capacity Building,63005559.4,51916138.61
+R028,2022,Assistive Technology,Capital,28535714.96,21196566.06
+R028,2022,Home Modifications,Capital,5911757.65,3718601.26
+R028,2023,Assistance with Daily Life,Core,49692306.13,43836799.2
+R028,2023,Social & Community Participation,Core,47143826.83,41594379.1
+R028,2023,Consumables,Core,9382691.35,7929314.6
+R028,2023,Transport,Core,34273715.56,29077587.37
+R028,2023,Support Coordination,Capacity Building,44499216.11,35251109.19
+R028,2023,Improved Daily Living,Capacity Building,34293121.25,29880484.83
+R028,2023,Finding & Keeping a Job,Capacity Building,52780416.02,37908262.9
+R028,2023,Improved Health & Wellbeing,Capacity Building,82672751.14,68719050.5
+R028,2023,Assistive Technology,Capital,26949263.59,19039014.35
+R028,2023,Home Modifications,Capital,6020358.9,3967224.07
+R028,2024,Assistance with Daily Life,Core,56249122.55,47852832.26
+R028,2024,Social & Community Participation,Core,68239049.14,54852453.49
+R028,2024,Consumables,Core,13206957.21,11292954.97
+R028,2024,Transport,Core,38434136.64,32923823.85
+R028,2024,Support Coordination,Capacity Building,43541412.99,33097842.0
+R028,2024,Improved Daily Living,Capacity Building,33842073.78,28378887.52
+R028,2024,Finding & Keeping a Job,Capacity Building,59489763.01,40124675.6
+R028,2024,Improved Health & Wellbeing,Capacity Building,78136182.7,62548062.33
+R028,2024,Assistive Technology,Capital,31837818.41,22892773.07
+R028,2024,Home Modifications,Capital,9637946.22,6466425.3
+R029,2020,Assistance with Daily Life,Core,86141562.8,81065545.01
+R029,2020,Social & Community Participation,Core,79091926.33,73919902.25
+R029,2020,Consumables,Core,20123463.31,18771315.19
+R029,2020,Transport,Core,71697909.29,67233370.25
+R029,2020,Support Coordination,Capacity Building,88592946.06,72583128.86
+R029,2020,Improved Daily Living,Capacity Building,56101635.81,48759968.08
+R029,2020,Finding & Keeping a Job,Capacity Building,106356691.2,80015905.85
+R029,2020,Improved Health & Wellbeing,Capacity Building,132322833.89,121033525.46
+R029,2020,Assistive Technology,Capital,58383918.9,48548379.89
+R029,2020,Home Modifications,Capital,13495343.75,10008761.88
+R029,2021,Assistance with Daily Life,Core,87468424.45,82247973.93
+R029,2021,Social & Community Participation,Core,102582381.25,98728707.34
+R029,2021,Consumables,Core,18837969.13,17853299.0
+R029,2021,Transport,Core,78126774.48,73172106.44
+R029,2021,Support Coordination,Capacity Building,108193281.72,89342974.1
+R029,2021,Improved Daily Living,Capacity Building,74991004.83,71104165.7
+R029,2021,Finding & Keeping a Job,Capacity Building,97679678.54,77614764.78
+R029,2021,Improved Health & Wellbeing,Capacity Building,180461847.81,162094488.94
+R029,2021,Assistive Technology,Capital,53547550.97,44478738.94
+R029,2021,Home Modifications,Capital,13664748.91,10085996.91
+R029,2022,Assistance with Daily Life,Core,132153243.21,122662339.37
+R029,2022,Social & Community Participation,Core,126729131.43,119127902.92
+R029,2022,Consumables,Core,23910594.58,22351184.64
+R029,2022,Transport,Core,84844722.32,82080992.7
+R029,2022,Support Coordination,Capacity Building,95375381.9,77296592.22
+R029,2022,Improved Daily Living,Capacity Building,64752182.59,62329164.18
+R029,2022,Finding & Keeping a Job,Capacity Building,139640714.7,110679052.81
+R029,2022,Improved Health & Wellbeing,Capacity Building,196611325.68,176272312.24
+R029,2022,Assistive Technology,Capital,83237245.63,71779012.84
+R029,2022,Home Modifications,Capital,18505880.79,14358019.64
+R029,2023,Assistance with Daily Life,Core,129520910.55,120206523.07
+R029,2023,Social & Community Participation,Core,136217151.6,126674182.09
+R029,2023,Consumables,Core,24312879.96,23649130.49
+R029,2023,Transport,Core,98566588.33,91102532.12
+R029,2023,Support Coordination,Capacity Building,107199354.45,89729826.08
+R029,2023,Improved Daily Living,Capacity Building,85277702.14,80320912.98
+R029,2023,Finding & Keeping a Job,Capacity Building,184097271.12,150768857.9
+R029,2023,Improved Health & Wellbeing,Capacity Building,204495610.87,195880421.97
+R029,2023,Assistive Technology,Capital,95310858.66,81332664.98
+R029,2023,Home Modifications,Capital,23489104.5,16924045.48
+R029,2024,Assistance with Daily Life,Core,184683279.18,180341993.83
+R029,2024,Social & Community Participation,Core,133972586.55,131293134.82
+R029,2024,Consumables,Core,37850206.87,35643588.77
+R029,2024,Transport,Core,96253716.88,94328642.54
+R029,2024,Support Coordination,Capacity Building,159928882.11,135851287.71
+R029,2024,Improved Daily Living,Capacity Building,105677763.48,102760543.05
+R029,2024,Finding & Keeping a Job,Capacity Building,158816701.54,130216077.14
+R029,2024,Improved Health & Wellbeing,Capacity Building,227516264.31,213331500.96
+R029,2024,Assistive Technology,Capital,94864549.5,79270411.84
+R029,2024,Home Modifications,Capital,24589411.43,19263929.44
+R030,2020,Assistance with Daily Life,Core,54263592.02,37475616.18
+R030,2020,Social & Community Participation,Core,58169728.66,42274098.78
+R030,2020,Consumables,Core,9479242.83,6947150.39
+R030,2020,Transport,Core,39477698.14,29473445.66
+R030,2020,Support Coordination,Capacity Building,50091474.58,31594754.03
+R030,2020,Improved Daily Living,Capacity Building,35481537.33,24691716.98
+R030,2020,Finding & Keeping a Job,Capacity Building,67920740.21,42168121.31
+R030,2020,Improved Health & Wellbeing,Capacity Building,98463372.11,68178804.9
+R030,2020,Assistive Technology,Capital,29598935.08,18256057.27
+R030,2020,Home Modifications,Capital,8503673.59,4845994.52
+R030,2021,Assistance with Daily Life,Core,59838716.63,41156420.65
+R030,2021,Social & Community Participation,Core,72678743.36,49233994.04
+R030,2021,Consumables,Core,17415697.88,12852138.86
+R030,2021,Transport,Core,45308496.02,31708573.65
+R030,2021,Support Coordination,Capacity Building,53159513.91,33957712.6
+R030,2021,Improved Daily Living,Capacity Building,39909668.22,29394005.47
+R030,2021,Finding & Keeping a Job,Capacity Building,80050902.87,47712489.09
+R030,2021,Improved Health & Wellbeing,Capacity Building,110061029.54,80169790.3
+R030,2021,Assistive Technology,Capital,40904965.45,26279146.69
+R030,2021,Home Modifications,Capital,9244873.29,5097279.94
+R030,2022,Assistance with Daily Life,Core,75003816.41,52081946.87
+R030,2022,Social & Community Participation,Core,59525091.54,44222966.3
+R030,2022,Consumables,Core,12822381.83,8887414.35
+R030,2022,Transport,Core,57518453.79,42516036.76
+R030,2022,Support Coordination,Capacity Building,52404333.08,33093615.32
+R030,2022,Improved Daily Living,Capacity Building,39432898.57,29365296.29
+R030,2022,Finding & Keeping a Job,Capacity Building,71115847.33,44253636.88
+R030,2022,Improved Health & Wellbeing,Capacity Building,125137423.76,92680071.72
+R030,2022,Assistive Technology,Capital,45053021.31,29496493.95
+R030,2022,Home Modifications,Capital,10059367.44,6118421.49
+R030,2023,Assistance with Daily Life,Core,75227894.75,57273384.2
+R030,2023,Social & Community Participation,Core,66204264.8,50407480.3
+R030,2023,Consumables,Core,15790819.52,11710792.69
+R030,2023,Transport,Core,53195757.36,40610997.79
+R030,2023,Support Coordination,Capacity Building,63561047.33,43071429.92
+R030,2023,Improved Daily Living,Capacity Building,49261795.11,37612972.15
+R030,2023,Finding & Keeping a Job,Capacity Building,62409402.66,38703895.16
+R030,2023,Improved Health & Wellbeing,Capacity Building,130374247.11,100224499.52
+R030,2023,Assistive Technology,Capital,42313675.32,28027444.48
+R030,2023,Home Modifications,Capital,9953797.89,6075249.57
+R030,2024,Assistance with Daily Life,Core,88177863.28,65907630.15
+R030,2024,Social & Community Participation,Core,83057843.54,62052613.01
+R030,2024,Consumables,Core,13784988.26,10304495.44
+R030,2024,Transport,Core,57205828.66,41734761.07
+R030,2024,Support Coordination,Capacity Building,75675989.77,52941371.91
+R030,2024,Improved Daily Living,Capacity Building,59464318.82,45124046.63
+R030,2024,Finding & Keeping a Job,Capacity Building,79374673.34,49413898.86
+R030,2024,Improved Health & Wellbeing,Capacity Building,150341992.86,111989380.59
+R030,2024,Assistive Technology,Capital,56350034.47,37371120.58
+R030,2024,Home Modifications,Capital,11408078.25,6749071.28
+R031,2020,Assistance with Daily Life,Core,82509562.22,60244507.35
+R031,2020,Social & Community Participation,Core,60614827.72,45535264.29
+R031,2020,Consumables,Core,17188699.62,13019942.02
+R031,2020,Transport,Core,56028829.54,42514204.84
+R031,2020,Support Coordination,Capacity Building,61872858.63,41935434.61
+R031,2020,Improved Daily Living,Capacity Building,38642759.79,28556129.38
+R031,2020,Finding & Keeping a Job,Capacity Building,86013452.3,54655236.33
+R031,2020,Improved Health & Wellbeing,Capacity Building,95464059.5,73535561.19
+R031,2020,Assistive Technology,Capital,55543456.2,37343773.95
+R031,2020,Home Modifications,Capital,11329480.17,6608017.27
+R031,2021,Assistance with Daily Life,Core,77468231.99,58057589.91
+R031,2021,Social & Community Participation,Core,70129442.89,51793389.52
+R031,2021,Consumables,Core,17597788.59,12410412.77
+R031,2021,Transport,Core,49620530.76,35981064.81
+R031,2021,Support Coordination,Capacity Building,78395684.03,51007233.92
+R031,2021,Improved Daily Living,Capacity Building,48810790.39,37337195.26
+R031,2021,Finding & Keeping a Job,Capacity Building,88115573.16,53072443.08
+R031,2021,Improved Health & Wellbeing,Capacity Building,126614930.88,93599838.27
+R031,2021,Assistive Technology,Capital,47536848.48,29725645.19
+R031,2021,Home Modifications,Capital,13121877.77,7384895.93
+R031,2022,Assistance with Daily Life,Core,101527134.42,77102380.52
+R031,2022,Social & Community Participation,Core,113440305.95,87590684.0
+R031,2022,Consumables,Core,23811385.15,18385811.34
+R031,2022,Transport,Core,74925722.89,54755477.08
+R031,2022,Support Coordination,Capacity Building,81898195.96,54397771.42
+R031,2022,Improved Daily Living,Capacity Building,65977469.39,48956844.4
+R031,2022,Finding & Keeping a Job,Capacity Building,114125884.31,74472835.41
+R031,2022,Improved Health & Wellbeing,Capacity Building,120095591.32,92785179.14
+R031,2022,Assistive Technology,Capital,53861836.8,36469295.54
+R031,2022,Home Modifications,Capital,12817864.06,7363731.8
+R031,2023,Assistance with Daily Life,Core,115040894.35,88941830.94
+R031,2023,Social & Community Participation,Core,115704335.8,86105570.17
+R031,2023,Consumables,Core,21193887.0,16691931.48
+R031,2023,Transport,Core,69932143.55,54122315.23
+R031,2023,Support Coordination,Capacity Building,74697589.42,48898925.49
+R031,2023,Improved Daily Living,Capacity Building,55911009.3,44113705.32
+R031,2023,Finding & Keeping a Job,Capacity Building,94257997.94,57903353.48
+R031,2023,Improved Health & Wellbeing,Capacity Building,176242855.97,128618868.24
+R031,2023,Assistive Technology,Capital,67254545.28,46187488.23
+R031,2023,Home Modifications,Capital,14930040.59,9372823.0
+R031,2024,Assistance with Daily Life,Core,114910869.42,92919744.57
+R031,2024,Social & Community Participation,Core,112331358.48,93611477.8
+R031,2024,Consumables,Core,23276149.12,19280450.77
+R031,2024,Transport,Core,78134295.47,59551891.11
+R031,2024,Support Coordination,Capacity Building,93858323.99,67992963.03
+R031,2024,Improved Daily Living,Capacity Building,79768421.1,62498126.44
+R031,2024,Finding & Keeping a Job,Capacity Building,122428983.08,81665904.63
+R031,2024,Improved Health & Wellbeing,Capacity Building,179506645.19,143368080.36
+R031,2024,Assistive Technology,Capital,72310834.5,48247544.77
+R031,2024,Home Modifications,Capital,17888055.12,11830495.68
+R032,2020,Assistance with Daily Life,Core,120494989.45,107391900.1
+R032,2020,Social & Community Participation,Core,102353374.56,97321307.98
+R032,2020,Consumables,Core,26163795.21,24704031.69
+R032,2020,Transport,Core,84202696.2,77687082.58
+R032,2020,Support Coordination,Capacity Building,85047384.73,73311091.45
+R032,2020,Improved Daily Living,Capacity Building,62920741.1,58198392.99
+R032,2020,Finding & Keeping a Job,Capacity Building,142615529.22,112357493.73
+R032,2020,Improved Health & Wellbeing,Capacity Building,200152528.89,183552800.68
+R032,2020,Assistive Technology,Capital,73193645.33,58806914.1
+R032,2020,Home Modifications,Capital,15085829.83,10831391.62
+R032,2021,Assistance with Daily Life,Core,136523825.09,122955679.59
+R032,2021,Social & Community Participation,Core,138501092.9,133109892.91
+R032,2021,Consumables,Core,32254674.19,29444675.72
+R032,2021,Transport,Core,86065916.31,84012152.27
+R032,2021,Support Coordination,Capacity Building,101294236.87,89367932.74
+R032,2021,Improved Daily Living,Capacity Building,94000773.95,88729804.17
+R032,2021,Finding & Keeping a Job,Capacity Building,128434841.94,97953863.08
+R032,2021,Improved Health & Wellbeing,Capacity Building,221294918.78,216869020.41
+R032,2021,Assistive Technology,Capital,80006631.04,69081414.56
+R032,2021,Home Modifications,Capital,19396089.69,14051252.96
+R032,2022,Assistance with Daily Life,Core,124366992.22,115184103.66
+R032,2022,Social & Community Participation,Core,143306669.63,137320624.25
+R032,2022,Consumables,Core,28854572.72,27932500.96
+R032,2022,Transport,Core,131343081.75,125380564.16
+R032,2022,Support Coordination,Capacity Building,124082712.11,106268399.1
+R032,2022,Improved Daily Living,Capacity Building,84558014.7,80391972.95
+R032,2022,Finding & Keeping a Job,Capacity Building,165883672.73,129553583.81
+R032,2022,Improved Health & Wellbeing,Capacity Building,207057670.78,197379855.37
+R032,2022,Assistive Technology,Capital,92403618.73,76959788.05
+R032,2022,Home Modifications,Capital,24534039.83,18926765.48
+R032,2023,Assistance with Daily Life,Core,185412252.56,181704007.51
+R032,2023,Social & Community Participation,Core,137407024.56,129101193.13
+R032,2023,Consumables,Core,31684232.37,29686407.21
+R032,2023,Transport,Core,103091083.58,101029261.91
+R032,2023,Support Coordination,Capacity Building,158113799.34,141371940.0
+R032,2023,Improved Daily Living,Capacity Building,95093414.6,93191546.3
+R032,2023,Finding & Keeping a Job,Capacity Building,155109277.69,123930954.84
+R032,2023,Improved Health & Wellbeing,Capacity Building,272899749.66,260340415.43
+R032,2023,Assistive Technology,Capital,110717319.36,96724189.24
+R032,2023,Home Modifications,Capital,24069041.62,17830709.28
+R032,2024,Assistance with Daily Life,Core,195076713.91,186863212.85
+R032,2024,Social & Community Participation,Core,184351402.18,180664374.14
+R032,2024,Consumables,Core,40853843.32,37580932.72
+R032,2024,Transport,Core,136583025.86,133851365.34
+R032,2024,Support Coordination,Capacity Building,149476257.35,124563720.13
+R032,2024,Improved Daily Living,Capacity Building,111325080.35,104279451.42
+R032,2024,Finding & Keeping a Job,Capacity Building,210348423.57,179322872.96
+R032,2024,Improved Health & Wellbeing,Capacity Building,331422962.32,315103593.57
+R032,2024,Assistive Technology,Capital,140952559.43,122942181.36
+R032,2024,Home Modifications,Capital,26776714.03,20292162.8
+R033,2020,Assistance with Daily Life,Core,193478268.22,156642726.68
+R033,2020,Social & Community Participation,Core,204994221.52,177493599.23
+R033,2020,Consumables,Core,31935113.86,26239906.08
+R033,2020,Transport,Core,130021392.92,103181293.19
+R033,2020,Support Coordination,Capacity Building,167287911.23,122794494.86
+R033,2020,Improved Daily Living,Capacity Building,116539797.82,97098772.37
+R033,2020,Finding & Keeping a Job,Capacity Building,163703748.76,109982770.91
+R033,2020,Improved Health & Wellbeing,Capacity Building,271240751.26,226606639.44
+R033,2020,Assistive Technology,Capital,115325133.1,87502544.24
+R033,2020,Home Modifications,Capital,28769169.98,19896301.16
+R033,2021,Assistance with Daily Life,Core,204931617.36,182028144.92
+R033,2021,Social & Community Participation,Core,211551185.99,174245580.46
+R033,2021,Consumables,Core,43084850.76,37938437.18
+R033,2021,Transport,Core,150662031.05,129759256.96
+R033,2021,Support Coordination,Capacity Building,167783810.88,121846590.49
+R033,2021,Improved Daily Living,Capacity Building,115531075.97,97282015.39
+R033,2021,Finding & Keeping a Job,Capacity Building,197481961.57,140784959.21
+R033,2021,Improved Health & Wellbeing,Capacity Building,286473796.18,233641681.1
+R033,2021,Assistive Technology,Capital,104986572.18,79788214.56
+R033,2021,Home Modifications,Capital,27119850.6,18051588.18
+R033,2022,Assistance with Daily Life,Core,216066598.05,178728517.63
+R033,2022,Social & Community Participation,Core,184434505.3,158808376.24
+R033,2022,Consumables,Core,40234372.94,34809152.28
+R033,2022,Transport,Core,178196866.29,154934312.07
+R033,2022,Support Coordination,Capacity Building,224283567.38,173188107.47
+R033,2022,Improved Daily Living,Capacity Building,134321787.09,110157223.29
+R033,2022,Finding & Keeping a Job,Capacity Building,195738059.27,132693297.23
+R033,2022,Improved Health & Wellbeing,Capacity Building,401182680.21,348253147.79
+R033,2022,Assistive Technology,Capital,142544487.76,108610903.74
+R033,2022,Home Modifications,Capital,35950507.76,23092578.93
+R033,2023,Assistance with Daily Life,Core,252166561.36,208282744.18
+R033,2023,Social & Community Participation,Core,222352670.42,184839539.3
+R033,2023,Consumables,Core,60315297.66,51101651.56
+R033,2023,Transport,Core,189840084.27,164774835.97
+R033,2023,Support Coordination,Capacity Building,210227558.35,162982770.04
+R033,2023,Improved Daily Living,Capacity Building,141227805.72,124030738.7
+R033,2023,Finding & Keeping a Job,Capacity Building,232225959.98,160182870.27
+R033,2023,Improved Health & Wellbeing,Capacity Building,357918914.65,296092922.6
+R033,2023,Assistive Technology,Capital,171294373.33,121990003.14
+R033,2023,Home Modifications,Capital,39220526.05,25639752.52
+R033,2024,Assistance with Daily Life,Core,260695294.11,225513570.09
+R033,2024,Social & Community Participation,Core,234619877.95,201897973.64
+R033,2024,Consumables,Core,48104906.74,44670264.65
+R033,2024,Transport,Core,208575602.32,194008415.27
+R033,2024,Support Coordination,Capacity Building,257952766.72,199665765.1
+R033,2024,Improved Daily Living,Capacity Building,147717894.88,127607790.33
+R033,2024,Finding & Keeping a Job,Capacity Building,304031742.9,235675528.02
+R033,2024,Improved Health & Wellbeing,Capacity Building,448039480.95,390018964.37
+R033,2024,Assistive Technology,Capital,150584643.72,120890163.15
+R033,2024,Home Modifications,Capital,33791888.94,23014554.89
+R034,2020,Assistance with Daily Life,Core,18117108.65,12324175.03
+R034,2020,Social & Community Participation,Core,17261049.49,11678050.65
+R034,2020,Consumables,Core,4708465.48,3205084.89
+R034,2020,Transport,Core,13802876.56,9612829.54
+R034,2020,Support Coordination,Capacity Building,17627395.02,10353045.38
+R034,2020,Improved Daily Living,Capacity Building,11509118.02,7451169.45
+R034,2020,Finding & Keeping a Job,Capacity Building,22605379.27,12469716.58
+R034,2020,Improved Health & Wellbeing,Capacity Building,26064772.2,17884990.38
+R034,2020,Assistive Technology,Capital,10880647.85,6612715.47
+R034,2020,Home Modifications,Capital,3381380.11,1786107.31
+R034,2021,Assistance with Daily Life,Core,21588132.59,14695936.72
+R034,2021,Social & Community Participation,Core,21123191.17,14454452.75
+R034,2021,Consumables,Core,4426119.28,3052590.98
+R034,2021,Transport,Core,15649445.62,10299652.23
+R034,2021,Support Coordination,Capacity Building,17107521.02,10339000.03
+R034,2021,Improved Daily Living,Capacity Building,17214058.13,11925872.58
+R034,2021,Finding & Keeping a Job,Capacity Building,28876186.92,17295572.71
+R034,2021,Improved Health & Wellbeing,Capacity Building,29400723.24,21112063.14
+R034,2021,Assistive Technology,Capital,12786960.88,7421774.28
+R034,2021,Home Modifications,Capital,2889146.58,1586771.15
+R034,2022,Assistance with Daily Life,Core,24431883.56,17811023.37
+R034,2022,Social & Community Participation,Core,22213827.5,16266435.96
+R034,2022,Consumables,Core,4930476.77,3787293.75
+R034,2022,Transport,Core,17442316.74,12610262.3
+R034,2022,Support Coordination,Capacity Building,21509577.1,14477970.74
+R034,2022,Improved Daily Living,Capacity Building,12770689.96,9150928.79
+R034,2022,Finding & Keeping a Job,Capacity Building,20848254.84,12771598.36
+R034,2022,Improved Health & Wellbeing,Capacity Building,36318019.98,25403024.89
+R034,2022,Assistive Technology,Capital,17366476.52,11158282.2
+R034,2022,Home Modifications,Capital,3639413.98,2091947.47
+R034,2023,Assistance with Daily Life,Core,27789818.87,19368111.76
+R034,2023,Social & Community Participation,Core,30071300.61,20715165.11
+R034,2023,Consumables,Core,4804384.67,3359519.36
+R034,2023,Transport,Core,16765800.77,12306951.68
+R034,2023,Support Coordination,Capacity Building,20181963.62,12644083.13
+R034,2023,Improved Daily Living,Capacity Building,17744777.55,12802470.63
+R034,2023,Finding & Keeping a Job,Capacity Building,30622497.58,18246623.84
+R034,2023,Improved Health & Wellbeing,Capacity Building,39158859.78,27504378.81
+R034,2023,Assistive Technology,Capital,21079732.57,13386271.81
+R034,2023,Home Modifications,Capital,3817570.56,2085578.95
+R034,2024,Assistance with Daily Life,Core,32068990.64,22494909.07
+R034,2024,Social & Community Participation,Core,34940051.53,24598643.83
+R034,2024,Consumables,Core,5607510.81,4266782.68
+R034,2024,Transport,Core,20001822.29,14881124.38
+R034,2024,Support Coordination,Capacity Building,24862909.16,15569673.81
+R034,2024,Improved Daily Living,Capacity Building,16056458.27,12097749.97
+R034,2024,Finding & Keeping a Job,Capacity Building,32480449.3,19578488.81
+R034,2024,Improved Health & Wellbeing,Capacity Building,45420612.89,32025377.73
+R034,2024,Assistive Technology,Capital,15046434.15,9804328.85
+R034,2024,Home Modifications,Capital,4491390.36,2496248.95
+R035,2020,Assistance with Daily Life,Core,8879222.92,6565929.08
+R035,2020,Social & Community Participation,Core,8342704.57,6275868.92
+R035,2020,Consumables,Core,1426011.81,1028720.67
+R035,2020,Transport,Core,4814226.61,3516152.07
+R035,2020,Support Coordination,Capacity Building,5964080.28,3928314.91
+R035,2020,Improved Daily Living,Capacity Building,4306659.29,3274204.74
+R035,2020,Finding & Keeping a Job,Capacity Building,7615056.29,4562389.35
+R035,2020,Improved Health & Wellbeing,Capacity Building,11718757.33,8869846.75
+R035,2020,Assistive Technology,Capital,5737247.99,3822562.07
+R035,2020,Home Modifications,Capital,1103564.56,634769.31
+R035,2021,Assistance with Daily Life,Core,9430483.71,7021642.1
+R035,2021,Social & Community Participation,Core,8579574.73,6167875.8
+R035,2021,Consumables,Core,1644183.58,1168079.75
+R035,2021,Transport,Core,6411348.69,4569209.19
+R035,2021,Support Coordination,Capacity Building,6495092.01,4096549.95
+R035,2021,Improved Daily Living,Capacity Building,6720639.53,4805607.41
+R035,2021,Finding & Keeping a Job,Capacity Building,11552072.52,7231650.46
+R035,2021,Improved Health & Wellbeing,Capacity Building,16031314.87,11216491.39
+R035,2021,Assistive Technology,Capital,5247476.48,3372980.73
+R035,2021,Home Modifications,Capital,1237534.05,737901.13
+R035,2022,Assistance with Daily Life,Core,7893941.65,6038239.06
+R035,2022,Social & Community Participation,Core,10120745.0,7816664.22
+R035,2022,Consumables,Core,2275697.57,1644641.17
+R035,2022,Transport,Core,7242807.72,5386314.65
+R035,2022,Support Coordination,Capacity Building,9679249.02,6219612.82
+R035,2022,Improved Daily Living,Capacity Building,5301850.08,4075981.22
+R035,2022,Finding & Keeping a Job,Capacity Building,11045333.09,6986137.44
+R035,2022,Improved Health & Wellbeing,Capacity Building,14786027.75,10517243.97
+R035,2022,Assistive Technology,Capital,6923470.76,4625562.0
+R035,2022,Home Modifications,Capital,1186329.41,734339.6
+R035,2023,Assistance with Daily Life,Core,8359166.09,6554117.57
+R035,2023,Social & Community Participation,Core,11125562.12,8567651.52
+R035,2023,Consumables,Core,2526261.75,1854860.33
+R035,2023,Transport,Core,7518813.17,5830478.3
+R035,2023,Support Coordination,Capacity Building,8988312.43,6321836.53
+R035,2023,Improved Daily Living,Capacity Building,7831076.16,5590239.96
+R035,2023,Finding & Keeping a Job,Capacity Building,13530496.41,8475026.42
+R035,2023,Improved Health & Wellbeing,Capacity Building,15720598.29,11641170.12
+R035,2023,Assistive Technology,Capital,7769116.06,5199097.64
+R035,2023,Home Modifications,Capital,1639218.44,934053.48
+R035,2024,Assistance with Daily Life,Core,11106082.27,8120223.39
+R035,2024,Social & Community Participation,Core,11220986.36,8680822.31
+R035,2024,Consumables,Core,2547505.44,1873287.7
+R035,2024,Transport,Core,8818528.31,6727828.62
+R035,2024,Support Coordination,Capacity Building,8961633.42,5962731.38
+R035,2024,Improved Daily Living,Capacity Building,8920015.69,6879898.66
+R035,2024,Finding & Keeping a Job,Capacity Building,12608412.52,8193370.18
+R035,2024,Improved Health & Wellbeing,Capacity Building,21331356.04,16609491.25
+R035,2024,Assistive Technology,Capital,9076275.46,6062575.63
+R035,2024,Home Modifications,Capital,1582537.15,977059.91

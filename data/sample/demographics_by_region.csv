@@ -1,0 +1,561 @@
+region_id,segment_type,segment,participants
+R001,disability_type,Autism,1203
+R001,disability_type,Intellectual Disability,1507
+R001,disability_type,Psychosocial Disability,908
+R001,disability_type,Physical Disability,1971
+R001,disability_type,Sensory / Speech,1937
+R001,disability_type,Neurological,2012
+R001,disability_type,Other,776
+R001,age_band,0-6,871
+R001,age_band,7-14,868
+R001,age_band,15-24,1505
+R001,age_band,25-44,2758
+R001,age_band,45-64,2548
+R001,age_band,65+,1763
+R001,plan_management,Agency Managed,3504
+R001,plan_management,Plan Managed,4260
+R001,plan_management,Self Managed,2550
+R002,disability_type,Autism,1423
+R002,disability_type,Intellectual Disability,4996
+R002,disability_type,Psychosocial Disability,1063
+R002,disability_type,Physical Disability,723
+R002,disability_type,Sensory / Speech,2859
+R002,disability_type,Neurological,549
+R002,disability_type,Other,3740
+R002,age_band,0-6,2430
+R002,age_band,7-14,3228
+R002,age_band,15-24,2925
+R002,age_band,25-44,1559
+R002,age_band,45-64,4755
+R002,age_band,65+,456
+R002,plan_management,Agency Managed,3579
+R002,plan_management,Plan Managed,8046
+R002,plan_management,Self Managed,3728
+R003,disability_type,Autism,2969
+R003,disability_type,Intellectual Disability,4123
+R003,disability_type,Psychosocial Disability,2122
+R003,disability_type,Physical Disability,1989
+R003,disability_type,Sensory / Speech,3050
+R003,disability_type,Neurological,2909
+R003,disability_type,Other,2335
+R003,age_band,0-6,3111
+R003,age_band,7-14,2753
+R003,age_band,15-24,1381
+R003,age_band,25-44,3911
+R003,age_band,45-64,3464
+R003,age_band,65+,4876
+R003,plan_management,Agency Managed,5903
+R003,plan_management,Plan Managed,6956
+R003,plan_management,Self Managed,6638
+R004,disability_type,Autism,817
+R004,disability_type,Intellectual Disability,370
+R004,disability_type,Psychosocial Disability,1615
+R004,disability_type,Physical Disability,1436
+R004,disability_type,Sensory / Speech,1246
+R004,disability_type,Neurological,408
+R004,disability_type,Other,2152
+R004,age_band,0-6,657
+R004,age_band,7-14,576
+R004,age_band,15-24,2141
+R004,age_band,25-44,1028
+R004,age_band,45-64,851
+R004,age_band,65+,2791
+R004,plan_management,Agency Managed,438
+R004,plan_management,Plan Managed,380
+R004,plan_management,Self Managed,7225
+R005,disability_type,Autism,729
+R005,disability_type,Intellectual Disability,110
+R005,disability_type,Psychosocial Disability,874
+R005,disability_type,Physical Disability,2580
+R005,disability_type,Sensory / Speech,115
+R005,disability_type,Neurological,1140
+R005,disability_type,Other,796
+R005,age_band,0-6,1928
+R005,age_band,7-14,1290
+R005,age_band,15-24,639
+R005,age_band,25-44,955
+R005,age_band,45-64,595
+R005,age_band,65+,937
+R005,plan_management,Agency Managed,2134
+R005,plan_management,Plan Managed,1079
+R005,plan_management,Self Managed,3131
+R006,disability_type,Autism,357
+R006,disability_type,Intellectual Disability,942
+R006,disability_type,Psychosocial Disability,539
+R006,disability_type,Physical Disability,470
+R006,disability_type,Sensory / Speech,1113
+R006,disability_type,Neurological,2208
+R006,disability_type,Other,988
+R006,age_band,0-6,798
+R006,age_band,7-14,800
+R006,age_band,15-24,749
+R006,age_band,25-44,1970
+R006,age_band,45-64,1015
+R006,age_band,65+,1286
+R006,plan_management,Agency Managed,1131
+R006,plan_management,Plan Managed,1146
+R006,plan_management,Self Managed,4340
+R007,disability_type,Autism,65
+R007,disability_type,Intellectual Disability,526
+R007,disability_type,Psychosocial Disability,129
+R007,disability_type,Physical Disability,254
+R007,disability_type,Sensory / Speech,239
+R007,disability_type,Neurological,68
+R007,disability_type,Other,64
+R007,age_band,0-6,163
+R007,age_band,7-14,50
+R007,age_band,15-24,137
+R007,age_band,25-44,252
+R007,age_band,45-64,281
+R007,age_band,65+,461
+R007,plan_management,Agency Managed,173
+R007,plan_management,Plan Managed,216
+R007,plan_management,Self Managed,955
+R008,disability_type,Autism,174
+R008,disability_type,Intellectual Disability,1087
+R008,disability_type,Psychosocial Disability,1647
+R008,disability_type,Physical Disability,1750
+R008,disability_type,Sensory / Speech,8377
+R008,disability_type,Neurological,1784
+R008,disability_type,Other,2471
+R008,age_band,0-6,4075
+R008,age_band,7-14,1163
+R008,age_band,15-24,313
+R008,age_band,25-44,6532
+R008,age_band,45-64,4320
+R008,age_band,65+,887
+R008,plan_management,Agency Managed,9926
+R008,plan_management,Plan Managed,808
+R008,plan_management,Self Managed,6557
+R009,disability_type,Autism,1078
+R009,disability_type,Intellectual Disability,833
+R009,disability_type,Psychosocial Disability,266
+R009,disability_type,Physical Disability,475
+R009,disability_type,Sensory / Speech,837
+R009,disability_type,Neurological,544
+R009,disability_type,Other,1618
+R009,age_band,0-6,1720
+R009,age_band,7-14,1004
+R009,age_band,15-24,1553
+R009,age_band,25-44,875
+R009,age_band,45-64,463
+R009,age_band,65+,37
+R009,plan_management,Agency Managed,1811
+R009,plan_management,Plan Managed,644
+R009,plan_management,Self Managed,3197
+R010,disability_type,Autism,3123
+R010,disability_type,Intellectual Disability,5484
+R010,disability_type,Psychosocial Disability,3104
+R010,disability_type,Physical Disability,16075
+R010,disability_type,Sensory / Speech,3925
+R010,disability_type,Neurological,6471
+R010,disability_type,Other,4159
+R010,age_band,0-6,10761
+R010,age_band,7-14,2587
+R010,age_band,15-24,5828
+R010,age_band,25-44,2902
+R010,age_band,45-64,12697
+R010,age_band,65+,7567
+R010,plan_management,Agency Managed,10086
+R010,plan_management,Plan Managed,21673
+R010,plan_management,Self Managed,10584
+R011,disability_type,Autism,145
+R011,disability_type,Intellectual Disability,604
+R011,disability_type,Psychosocial Disability,1726
+R011,disability_type,Physical Disability,274
+R011,disability_type,Sensory / Speech,354
+R011,disability_type,Neurological,1629
+R011,disability_type,Other,944
+R011,age_band,0-6,367
+R011,age_band,7-14,1617
+R011,age_band,15-24,812
+R011,age_band,25-44,913
+R011,age_band,45-64,326
+R011,age_band,65+,1640
+R011,plan_management,Agency Managed,2516
+R011,plan_management,Plan Managed,1325
+R011,plan_management,Self Managed,1834
+R012,disability_type,Autism,2257
+R012,disability_type,Intellectual Disability,852
+R012,disability_type,Psychosocial Disability,735
+R012,disability_type,Physical Disability,1146
+R012,disability_type,Sensory / Speech,665
+R012,disability_type,Neurological,525
+R012,disability_type,Other,513
+R012,age_band,0-6,988
+R012,age_band,7-14,1809
+R012,age_band,15-24,1913
+R012,age_band,25-44,1016
+R012,age_band,45-64,555
+R012,age_band,65+,413
+R012,plan_management,Agency Managed,3059
+R012,plan_management,Plan Managed,1113
+R012,plan_management,Self Managed,2521
+R013,disability_type,Autism,229
+R013,disability_type,Intellectual Disability,1535
+R013,disability_type,Psychosocial Disability,797
+R013,disability_type,Physical Disability,1487
+R013,disability_type,Sensory / Speech,866
+R013,disability_type,Neurological,996
+R013,disability_type,Other,580
+R013,age_band,0-6,915
+R013,age_band,7-14,848
+R013,age_band,15-24,1705
+R013,age_band,25-44,1228
+R013,age_band,45-64,754
+R013,age_band,65+,1040
+R013,plan_management,Agency Managed,2768
+R013,plan_management,Plan Managed,2430
+R013,plan_management,Self Managed,1292
+R014,disability_type,Autism,5300
+R014,disability_type,Intellectual Disability,394
+R014,disability_type,Psychosocial Disability,6495
+R014,disability_type,Physical Disability,2145
+R014,disability_type,Sensory / Speech,3257
+R014,disability_type,Neurological,890
+R014,disability_type,Other,1330
+R014,age_band,0-6,2092
+R014,age_band,7-14,4393
+R014,age_band,15-24,5666
+R014,age_band,25-44,3691
+R014,age_band,45-64,2334
+R014,age_band,65+,1634
+R014,plan_management,Agency Managed,4766
+R014,plan_management,Plan Managed,3413
+R014,plan_management,Self Managed,11632
+R015,disability_type,Autism,1203
+R015,disability_type,Intellectual Disability,1451
+R015,disability_type,Psychosocial Disability,9110
+R015,disability_type,Physical Disability,1253
+R015,disability_type,Sensory / Speech,3274
+R015,disability_type,Neurological,2017
+R015,disability_type,Other,4995
+R015,age_band,0-6,3197
+R015,age_band,7-14,4967
+R015,age_band,15-24,2942
+R015,age_band,25-44,5382
+R015,age_band,45-64,2113
+R015,age_band,65+,4703
+R015,plan_management,Agency Managed,5603
+R015,plan_management,Plan Managed,15014
+R015,plan_management,Self Managed,2687
+R016,disability_type,Autism,3972
+R016,disability_type,Intellectual Disability,1544
+R016,disability_type,Psychosocial Disability,438
+R016,disability_type,Physical Disability,664
+R016,disability_type,Sensory / Speech,2788
+R016,disability_type,Neurological,158
+R016,disability_type,Other,1794
+R016,age_band,0-6,3281
+R016,age_band,7-14,1275
+R016,age_band,15-24,1179
+R016,age_band,25-44,1617
+R016,age_band,45-64,702
+R016,age_band,65+,3304
+R016,plan_management,Agency Managed,3130
+R016,plan_management,Plan Managed,2898
+R016,plan_management,Self Managed,5330
+R017,disability_type,Autism,527
+R017,disability_type,Intellectual Disability,280
+R017,disability_type,Psychosocial Disability,111
+R017,disability_type,Physical Disability,537
+R017,disability_type,Sensory / Speech,195
+R017,disability_type,Neurological,145
+R017,disability_type,Other,350
+R017,age_band,0-6,641
+R017,age_band,7-14,248
+R017,age_band,15-24,173
+R017,age_band,25-44,425
+R017,age_band,45-64,649
+R017,age_band,65+,9
+R017,plan_management,Agency Managed,1163
+R017,plan_management,Plan Managed,179
+R017,plan_management,Self Managed,803
+R018,disability_type,Autism,365
+R018,disability_type,Intellectual Disability,141
+R018,disability_type,Psychosocial Disability,501
+R018,disability_type,Physical Disability,297
+R018,disability_type,Sensory / Speech,226
+R018,disability_type,Neurological,81
+R018,disability_type,Other,551
+R018,age_band,0-6,112
+R018,age_band,7-14,611
+R018,age_band,15-24,296
+R018,age_band,25-44,540
+R018,age_band,45-64,293
+R018,age_band,65+,313
+R018,plan_management,Agency Managed,689
+R018,plan_management,Plan Managed,311
+R018,plan_management,Self Managed,1165
+R019,disability_type,Autism,1147
+R019,disability_type,Intellectual Disability,381
+R019,disability_type,Psychosocial Disability,1490
+R019,disability_type,Physical Disability,1077
+R019,disability_type,Sensory / Speech,223
+R019,disability_type,Neurological,844
+R019,disability_type,Other,1166
+R019,age_band,0-6,1782
+R019,age_band,7-14,1263
+R019,age_band,15-24,603
+R019,age_band,25-44,659
+R019,age_band,45-64,347
+R019,age_band,65+,1674
+R019,plan_management,Agency Managed,1990
+R019,plan_management,Plan Managed,1499
+R019,plan_management,Self Managed,2839
+R020,disability_type,Autism,817
+R020,disability_type,Intellectual Disability,4032
+R020,disability_type,Psychosocial Disability,1800
+R020,disability_type,Physical Disability,10399
+R020,disability_type,Sensory / Speech,2774
+R020,disability_type,Neurological,927
+R020,disability_type,Other,1770
+R020,age_band,0-6,2452
+R020,age_band,7-14,4613
+R020,age_band,15-24,10230
+R020,age_band,25-44,4015
+R020,age_band,45-64,653
+R020,age_band,65+,558
+R020,plan_management,Agency Managed,6963
+R020,plan_management,Plan Managed,1041
+R020,plan_management,Self Managed,14516
+R021,disability_type,Autism,457
+R021,disability_type,Intellectual Disability,1053
+R021,disability_type,Psychosocial Disability,5779
+R021,disability_type,Physical Disability,1319
+R021,disability_type,Sensory / Speech,1100
+R021,disability_type,Neurological,2522
+R021,disability_type,Other,4286
+R021,age_band,0-6,1074
+R021,age_band,7-14,2514
+R021,age_band,15-24,6330
+R021,age_band,25-44,2872
+R021,age_band,45-64,1629
+R021,age_band,65+,2097
+R021,plan_management,Agency Managed,3855
+R021,plan_management,Plan Managed,5344
+R021,plan_management,Self Managed,7317
+R022,disability_type,Autism,277
+R022,disability_type,Intellectual Disability,994
+R022,disability_type,Psychosocial Disability,524
+R022,disability_type,Physical Disability,1222
+R022,disability_type,Sensory / Speech,884
+R022,disability_type,Neurological,1303
+R022,disability_type,Other,3215
+R022,age_band,0-6,1623
+R022,age_band,7-14,1222
+R022,age_band,15-24,538
+R022,age_band,25-44,1506
+R022,age_band,45-64,1621
+R022,age_band,65+,1909
+R022,plan_management,Agency Managed,2430
+R022,plan_management,Plan Managed,4382
+R022,plan_management,Self Managed,1607
+R023,disability_type,Autism,249
+R023,disability_type,Intellectual Disability,166
+R023,disability_type,Psychosocial Disability,125
+R023,disability_type,Physical Disability,561
+R023,disability_type,Sensory / Speech,495
+R023,disability_type,Neurological,820
+R023,disability_type,Other,261
+R023,age_band,0-6,590
+R023,age_band,7-14,236
+R023,age_band,15-24,290
+R023,age_band,25-44,324
+R023,age_band,45-64,107
+R023,age_band,65+,1129
+R023,plan_management,Agency Managed,723
+R023,plan_management,Plan Managed,1264
+R023,plan_management,Self Managed,689
+R024,disability_type,Autism,163
+R024,disability_type,Intellectual Disability,257
+R024,disability_type,Psychosocial Disability,136
+R024,disability_type,Physical Disability,1336
+R024,disability_type,Sensory / Speech,139
+R024,disability_type,Neurological,142
+R024,disability_type,Other,278
+R024,age_band,0-6,396
+R024,age_band,7-14,959
+R024,age_band,15-24,249
+R024,age_band,25-44,191
+R024,age_band,45-64,166
+R024,age_band,65+,492
+R024,plan_management,Agency Managed,965
+R024,plan_management,Plan Managed,335
+R024,plan_management,Self Managed,1152
+R025,disability_type,Autism,1895
+R025,disability_type,Intellectual Disability,3028
+R025,disability_type,Psychosocial Disability,2294
+R025,disability_type,Physical Disability,2332
+R025,disability_type,Sensory / Speech,2148
+R025,disability_type,Neurological,6804
+R025,disability_type,Other,2691
+R025,age_band,0-6,5245
+R025,age_band,7-14,239
+R025,age_band,15-24,2129
+R025,age_band,25-44,4334
+R025,age_band,45-64,4724
+R025,age_band,65+,4522
+R025,plan_management,Agency Managed,2193
+R025,plan_management,Plan Managed,16539
+R025,plan_management,Self Managed,2460
+R026,disability_type,Autism,1859
+R026,disability_type,Intellectual Disability,4898
+R026,disability_type,Psychosocial Disability,1151
+R026,disability_type,Physical Disability,2946
+R026,disability_type,Sensory / Speech,2493
+R026,disability_type,Neurological,1088
+R026,disability_type,Other,4513
+R026,age_band,0-6,3033
+R026,age_band,7-14,7786
+R026,age_band,15-24,1389
+R026,age_band,25-44,5093
+R026,age_band,45-64,921
+R026,age_band,65+,724
+R026,plan_management,Agency Managed,10791
+R026,plan_management,Plan Managed,2335
+R026,plan_management,Self Managed,5820
+R027,disability_type,Autism,140
+R027,disability_type,Intellectual Disability,333
+R027,disability_type,Psychosocial Disability,93
+R027,disability_type,Physical Disability,52
+R027,disability_type,Sensory / Speech,132
+R027,disability_type,Neurological,249
+R027,disability_type,Other,196
+R027,age_band,0-6,309
+R027,age_band,7-14,371
+R027,age_band,15-24,62
+R027,age_band,25-44,106
+R027,age_band,45-64,160
+R027,age_band,65+,188
+R027,plan_management,Agency Managed,314
+R027,plan_management,Plan Managed,426
+R027,plan_management,Self Managed,456
+R028,disability_type,Autism,481
+R028,disability_type,Intellectual Disability,1052
+R028,disability_type,Psychosocial Disability,1859
+R028,disability_type,Physical Disability,1095
+R028,disability_type,Sensory / Speech,862
+R028,disability_type,Neurological,2135
+R028,disability_type,Other,530
+R028,age_band,0-6,1978
+R028,age_band,7-14,2013
+R028,age_band,15-24,799
+R028,age_band,25-44,1954
+R028,age_band,45-64,646
+R028,age_band,65+,623
+R028,plan_management,Agency Managed,2848
+R028,plan_management,Plan Managed,3617
+R028,plan_management,Self Managed,1548
+R029,disability_type,Autism,7078
+R029,disability_type,Intellectual Disability,1770
+R029,disability_type,Psychosocial Disability,6457
+R029,disability_type,Physical Disability,455
+R029,disability_type,Sensory / Speech,2074
+R029,disability_type,Neurological,1961
+R029,disability_type,Other,2971
+R029,age_band,0-6,571
+R029,age_band,7-14,5779
+R029,age_band,15-24,9505
+R029,age_band,25-44,1108
+R029,age_band,45-64,3163
+R029,age_band,65+,2640
+R029,plan_management,Agency Managed,15172
+R029,plan_management,Plan Managed,1344
+R029,plan_management,Self Managed,6249
+R030,disability_type,Autism,149
+R030,disability_type,Intellectual Disability,1936
+R030,disability_type,Psychosocial Disability,1115
+R030,disability_type,Physical Disability,1117
+R030,disability_type,Sensory / Speech,1155
+R030,disability_type,Neurological,1645
+R030,disability_type,Other,2310
+R030,age_band,0-6,2141
+R030,age_band,7-14,578
+R030,age_band,15-24,875
+R030,age_band,25-44,3569
+R030,age_band,45-64,1500
+R030,age_band,65+,765
+R030,plan_management,Agency Managed,2671
+R030,plan_management,Plan Managed,3782
+R030,plan_management,Self Managed,2974
+R031,disability_type,Autism,1844
+R031,disability_type,Intellectual Disability,1288
+R031,disability_type,Psychosocial Disability,1125
+R031,disability_type,Physical Disability,810
+R031,disability_type,Sensory / Speech,2861
+R031,disability_type,Neurological,405
+R031,disability_type,Other,2840
+R031,age_band,0-6,1202
+R031,age_band,7-14,1378
+R031,age_band,15-24,908
+R031,age_band,25-44,2955
+R031,age_band,45-64,1836
+R031,age_band,65+,2895
+R031,plan_management,Agency Managed,1937
+R031,plan_management,Plan Managed,3265
+R031,plan_management,Self Managed,5973
+R032,disability_type,Autism,1409
+R032,disability_type,Intellectual Disability,501
+R032,disability_type,Psychosocial Disability,9721
+R032,disability_type,Physical Disability,1265
+R032,disability_type,Sensory / Speech,3681
+R032,disability_type,Neurological,3987
+R032,disability_type,Other,1387
+R032,age_band,0-6,707
+R032,age_band,7-14,1182
+R032,age_band,15-24,9070
+R032,age_band,25-44,7052
+R032,age_band,45-64,2316
+R032,age_band,65+,1623
+R032,plan_management,Agency Managed,12328
+R032,plan_management,Plan Managed,7976
+R032,plan_management,Self Managed,1645
+R033,disability_type,Autism,7706
+R033,disability_type,Intellectual Disability,6956
+R033,disability_type,Psychosocial Disability,7451
+R033,disability_type,Physical Disability,5516
+R033,disability_type,Sensory / Speech,3165
+R033,disability_type,Neurological,2467
+R033,disability_type,Other,5560
+R033,age_band,0-6,3559
+R033,age_band,7-14,5331
+R033,age_band,15-24,7735
+R033,age_band,25-44,1756
+R033,age_band,45-64,11106
+R033,age_band,65+,9334
+R033,plan_management,Agency Managed,17527
+R033,plan_management,Plan Managed,15139
+R033,plan_management,Self Managed,6155
+R034,disability_type,Autism,142
+R034,disability_type,Intellectual Disability,36
+R034,disability_type,Psychosocial Disability,582
+R034,disability_type,Physical Disability,711
+R034,disability_type,Sensory / Speech,299
+R034,disability_type,Neurological,190
+R034,disability_type,Other,654
+R034,age_band,0-6,757
+R034,age_band,7-14,516
+R034,age_band,15-24,317
+R034,age_band,25-44,49
+R034,age_band,45-64,422
+R034,age_band,65+,554
+R034,plan_management,Agency Managed,259
+R034,plan_management,Plan Managed,519
+R034,plan_management,Self Managed,1837
+R035,disability_type,Autism,363
+R035,disability_type,Intellectual Disability,140
+R035,disability_type,Psychosocial Disability,200
+R035,disability_type,Physical Disability,174
+R035,disability_type,Sensory / Speech,174
+R035,disability_type,Neurological,237
+R035,disability_type,Other,149
+R035,age_band,0-6,78
+R035,age_band,7-14,336
+R035,age_band,15-24,340
+R035,age_band,25-44,275
+R035,age_band,45-64,169
+R035,age_band,65+,237
+R035,plan_management,Agency Managed,1015
+R035,plan_management,Plan Managed,244
+R035,plan_management,Self Managed,177
